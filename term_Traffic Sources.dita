@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry_cw3_m2v_rjb">
+    <glossterm><b>Traffic Sources</b></glossterm>
+    <glossdef>
+        <p dir="ltr" id="docs-internal-guid-821f2c6d-7fff-4804-5f4f-248f175df0de">A report that
+            provides an overview of the different kinds of sources that send people to your website. </p>
+        <ul id="ul_p3s_n2v_rjb">
+            <li dir="ltr">
+                <p dir="ltr"><u>Direct Traffic:</u>People who show up to the site by directly using
+                    the URL associated with it or from using a bookmark.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr"><u>Social: </u>Other websites that send traffic over to you. These are
+                    commonly through social media sites such as Twitter and Facebook where the URL
+                    for the storefront is shared.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr"><u>Email: </u>Traffic from emails that included links to the URL.</p>
+            </li>
+            <li><u>Unknown: </u>Traffic from places that cannot be determined. This is a common
+                category.</li>
+        </ul>
+     
+    </glossdef>
+</glossentry>

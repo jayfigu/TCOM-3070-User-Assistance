@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="website_domain">
+    <glossterm>Website Domain</glossterm>
+    <glossdef>
+        <p>The name of the website or URL, sometimes called the host name. A web domain is an actual
+            presence on the Internet, such as a web page. A web domain name is a substitute that
+            replaces the Internet Protocol (IP) address. For example, we can replace the IP address
+            207.97.195.109 with a domain name such as www.shopify.com.</p>
+    </glossdef>
+</glossentry>
