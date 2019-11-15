@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fjg_dmj_sjb">
+    <title>Setting up</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p><xref href="getting_started.dita"/></p>
+    </conbody>
+    <related-links>
+        <link href="getting_started.dita"/>
+        <link href="getting_started.dita"/>
+    </related-links>
+</concept>

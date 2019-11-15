@@ -4,4 +4,36 @@
     <title>Shopify Final Assignment</title>
     <topicref href="introduction.dita"/>
     <topicref href="getting_started.dita"/>
+    <topichead navtitle="Setting Up - Topic Head">
+        <topichead navtitle="Creating a Store">
+            <topicref href="setting_up_the_basics.dita"/>
+            <topicref href="adding_store_policies.dita"/>
+            <topicref href="adding_and_managing_products.dita"/>
+            <topicref href="organizing_products.dita"/>
+            <topicref href="customizing_theme.dita"/>
+        </topichead>
+        <topichead navtitle="Completing your Profile"/>
+    </topichead>
+    <topichead navtitle="Domains">
+        <topichead navtitle="Adding a Domain">
+            <topicref href="domain_through_shopify.dita"/>
+            <topicref href="add_existing_domain.dita"/>
+            <topicref href="verify_shopify_connection.dita"/>
+        </topichead>
+        <topichead navtitle="Managing a Domain">
+            <topicref href="set_your_primary_domain.dita"/>
+            <topicref href="remove_a_third_party_domain.dita"/>
+            <topicref href="remove_shopify_domain.dita"/>
+        </topichead>
+    </topichead>
+    <topichead navtitle="Selling Products">
+        <topicref href="selling_in_person.dita"/>
+        <topicref href="selling_online.dita"/>
+    </topichead>
+    <topichead navtitle="Customers"/>
+    <topichead navtitle="Orders"/>
+    <topichead navtitle="Transactions"/>
+    <topichead navtitle="Analytics"/>
+    <topichead navtitle="Troubleshooting"/>
+    <topichead navtitle="Glossary"/>
 </map>
