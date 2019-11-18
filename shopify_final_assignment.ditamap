@@ -30,10 +30,23 @@
         <topicref href="selling_in_person.dita"/>
         <topicref href="selling_online.dita"/>
     </topichead>
-    <topichead navtitle="Customers"/>
+    <topichead navtitle="Customers">
+        <topichead navtitle="Managing Customers">
+            <topicref href="managing_customers.dita"/>
+            <topicref href="adding_customers.dita"/>
+            <topicref href="emailing_customers.dita"/>
+        </topichead>
+        <topichead navtitle="Editing Customers">
+            <topicref href="untitled24.dita"/>
+            <topicref href="untitled25.dita"/>
+            <topicref href="edit_customers_address.dita"/>
+        </topichead>
+    </topichead>
     <topichead navtitle="Orders"/>
     <topichead navtitle="Transactions"/>
     <topichead navtitle="Analytics"/>
     <topichead navtitle="Troubleshooting"/>
-    <topichead navtitle="Glossary"/>
+    <topichead navtitle="Glossary">
+        <topicref href="Glossary.dita"/>
+    </topichead>
 </map>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="emailing_customers">
+    <title>Emailing Customers</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the Shopify Admin, click the Customers button, and select the profiles of the customers you want to email.</cmd>
+            </step>
+            <step>
+                <cmd>Click the customer’s email address in the Customer overview, and then edit the subject as necessary (  {{ shop.name }}  can be used to automatically generate your store’s name in an email).</cmd>
+            </step>
+            <step>
+                <cmd>Type your message in the message field, and if you want to keep a copy for records, enter the email you want the copies sent to in the Send bcc to field.</cmd>
+            </step>
+            <step>
+                <cmd>Click the Review email when you are done, and then click Send notification if you are satisfied with the message, or Back if you want to revise the message.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

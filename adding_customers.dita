@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_customers">
+    <title>Adding Customers</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to the <b>Customers</b> page from the Shopify Admin, and click the <b>Add
+                        customer</b> button.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    Input the information on the form, updating the checkboxes as necessary
+                </cmd>
+                <substeps id="substeps_fc4_jxt_tjb">
+                    <substep>
+                         <cmd>Customer accepts marketing means that the customer has agreed to receive newsletters or marketing emails.</cmd>
+                        </substep>
+                        <substep> 
+                        <cmd>Collect tax details if you are charging a sales tax for the customer. Depending on the customer’s, or your own location, there will be additional options or information, such as tax exemption options with Browse or search exemptions.</cmd>
+                    </substep>
+                </substeps>          
+            </step>
+            <step>
+                <cmd>After filling out all the appropriate information, click Save customer to create or update the customer profile.</cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
