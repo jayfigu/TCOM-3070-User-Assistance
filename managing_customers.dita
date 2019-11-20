@@ -4,6 +4,10 @@
     <title>Managing Customers</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p>New customers will have their names and information added to customer lists when they
+            place an order in your store, allowing you to email them using their profile
+            information. You are also able to add, edit, or delete customer profiles manually in
+            certain circumstances. Using this information, you can create a customer group for
+            sending emails or discounts to customers.</p>
     </conbody>
 </concept>

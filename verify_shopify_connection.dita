@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="verify_shopify_connection">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="verify_shopify_connection">
     <title>Verify Shopify Connection</title>
     <shortdesc></shortdesc>
-    <conbody>
+    <taskbody>
         <p></p>
-    </conbody>
-</concept>
+    </taskbody>
+</task>

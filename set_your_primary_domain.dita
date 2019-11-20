@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="set_your_primary_domain">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="set_your_primary_domain">
     <title>Set your primary domain</title>
     <shortdesc></shortdesc>
-    <conbody>
+    <taskbody>
         <p></p>
-    </conbody>
-</concept>
+    </taskbody>
+</task>

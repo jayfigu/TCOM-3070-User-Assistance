@@ -6,6 +6,7 @@
     <topicref href="getting_started.dita"/>
     <topichead navtitle="Setting Up - Topic Head">
         <topichead navtitle="Creating a Store">
+            <topicref href="creating_a_store_0.dita"/>
             <topicref href="setting_up_the_basics.dita"/>
             <topicref href="adding_store_policies.dita"/>
             <topicref href="adding_and_managing_products.dita"/>
@@ -36,10 +37,11 @@
             <topicref href="adding_customers.dita"/>
             <topicref href="emailing_customers.dita"/>
         </topichead>
-        <topichead navtitle="Editing Customers">
+        <topichead navtitle="Editing Customer Information">
             <topicref href="untitled24.dita"/>
             <topicref href="untitled25.dita"/>
             <topicref href="edit_customers_address.dita"/>
+            <topicref href="edit_customer_s_tag.dita"/>
         </topichead>
     </topichead>
     <topichead navtitle="Orders"/>

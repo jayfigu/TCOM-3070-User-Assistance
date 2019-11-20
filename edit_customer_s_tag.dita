@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="edit_customer_s_tag">
+    <title>Edit Customer's Tag</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Using tags can help you organize your customer profile list. You can use tags to
+                label your customers with categories or descriptive terms. For example, if you have
+                wholesale customers, then you can tag those customers as wholesale.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From your Shopify admin, go to <b>Customers</b></cmd>
+            </step>
+            <step>
+                <cmd>Click the name of the customer profile you want to edit.</cmd>
+            </step>
+            <step>
+                <cmd>In the Tags section, add or edit your customer profile tags in the text box.</cmd>
+            </step>
+            <step>
+                <cmd>Click Save to confirm your changes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

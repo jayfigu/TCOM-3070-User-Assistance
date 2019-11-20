@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="organizing_products">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="organizing_products">
     <title>Organizing Products</title>
     <shortdesc></shortdesc>
-    <conbody>
+    <taskbody>
         <p></p>
-    </conbody>
-</concept>
+    </taskbody>
+</task>
