@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="status_page_overview">
+    <title>Status Page Overview</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p dir="ltr" id="docs-internal-guid-69b20a3b-7fff-853e-f7af-701c719a80ab">The overview shows
+            you the overall status of all the orders placed by customers. Customers are given the
+            option to receive links to their order status page by email. The email sent to them is a
+            template that includes the page URL the order status page that tells them:</p>
+        <ul id="ul_mxh_bbj_5jb">
+            <li dir="ltr">Order confirmation</li>
+            <li dir="ltr">
+                Shipping confirmation
+            </li>
+            <li dir="ltr">
+                Shipping update
+            </li>
+        </ul>
+    </conbody>
+</concept>

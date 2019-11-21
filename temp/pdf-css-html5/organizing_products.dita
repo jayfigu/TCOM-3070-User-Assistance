@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jfigueroa38\Documents\GitHub\TCOM-3070-User-Assistance\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="organizing_products" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="task:1;3:32">
+    <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="title:1;4:12">Organizing Products</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="shortdesc:1;5:16">Shopify allows you to create product collections to organize your products however you’d like through the use of collections. Examples of categories:
+        Clothes for men, women, or children
+        Items on sale
+        Items of a certain type, size or color
+        Seasonal products
+    </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="taskbody:1;11:15">
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="steps:1;12:16">
+            
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="step:1;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:1;15:22">From the Collections page, click on Create Collection</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="step:2;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:2;18:22">In the new window, enter a Title and Description for the collection. This is a mandatory step.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="step:3;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:3;21:22">Under Sales Channels make sure to choose which channels you want the collection to be listed under. (I.E. Shopify online store, Facebook, Amazon, etc.)</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="step:4;23:19">
+                
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:4;25:22">Collections allow you to choose whether products will be added in manually or automatically. This option cannot be changed later.</cmd>
+            
+                <substeps class="- topic/ol task/substeps " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="substeps:1;27:27">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="substep:1;28:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:5;29:30">If you chose automatically: Add in the selection criteria under Conditions. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="substep:2;31:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:6;32:30">If you chose manually: When adding in products manually at a later time, make sure you click Save after adding them. You can add the same product to several different collections.</cmd>
+                    </substep>
+                </substeps>
+            
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="step:5;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/organizing_products.dita" xtrc="cmd:7;38:22">Click Save Collection</cmd>
+            </step>
+        </steps>
+   
+    </taskbody>
+</task>

@@ -4,6 +4,10 @@
     <title>Verify Shopify Connection</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <p></p>
+        <steps>
+            <step>
+                <cmd>From the Shopify Admin page, click Verify connection to verify that your domain has been connected to your store.</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>

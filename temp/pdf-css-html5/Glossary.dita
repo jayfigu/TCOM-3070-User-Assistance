@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jfigueroa38\Documents\GitHub\TCOM-3070-User-Assistance\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="reference_nfc_2kj_sjb" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="reference:1;3:39">
+    <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="title:1;4:12">Glossary</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="shortdesc:1;5:16">Glossary</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="refbody:1;6:14">
+        <refbodydiv class="- topic/bodydiv     reference/refbodydiv " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="refbodydiv:1;7:21">
+            <section id="section_lnh_nkj_sjb" class="- topic/section " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="section:1;8:47">
+                <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="title:2;9:24">Website Domain</title>
+                <p class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="p:1;10:20">The name of the website or URL, sometimes called the host name. A web domain is
+                    an actual presence on the Internet, such as a web page. A web domain name is a
+                    substitute that replaces the Internet Protocol (IP) address. For example, we can
+                    replace the IP address 207.97.195.109 with a domain name such as
+                    www.shopify.com.</p>
+            </section>
+            <section id="section_tkz_clj_sjb" class="- topic/section " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="section:2;16:47">
+                <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="title:3;17:24">Traffic Sources</title>
+                <p dir="ltr" id="docs-internal-guid-821f2c6d-7fff-4804-5f4f-248f175df0de" class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="p:2;18:91">A report
+                    that provides an overview of the different kinds of sources that send people to
+                    your website. </p>
+                <ul id="ul_p3s_n2v_rjb" class="- topic/ul " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="ul:1;21:41">
+                    <li dir="ltr" class="- topic/li " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="li:1;22:35">
+                        <p dir="ltr" class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="p:3;23:38"><u class="+ topic/ph hi-d/u " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="u:1;23:41">Direct Traffic:</u>People who show up to the site by
+                            directly using the URL associated with it or from using a bookmark.</p>
+                    </li>
+                    <li dir="ltr" class="- topic/li " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="li:2;26:35">
+                        <p dir="ltr" class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="p:4;27:38"><u class="+ topic/ph hi-d/u " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="u:2;27:41">Social: </u>Other websites that send traffic over to you.
+                            These are commonly through social media sites such as Twitter and
+                            Facebook where the URL for the storefront is shared.</p>
+                    </li>
+                    <li dir="ltr" class="- topic/li " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="li:3;31:35">
+                        <p dir="ltr" class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="p:5;32:38"><u class="+ topic/ph hi-d/u " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="u:3;32:41">Email: </u>Traffic from emails that included links to the
+                            URL.</p>
+                    </li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="li:4;35:25"><u class="+ topic/ph hi-d/u " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/Glossary.dita" xtrc="u:4;35:28">Unknown: </u>Traffic from places that cannot be determined. This is a
+                        common category.</li>
+                </ul>
+            </section>
+            
+            
+        </refbodydiv>
+    </refbody>
+</reference>

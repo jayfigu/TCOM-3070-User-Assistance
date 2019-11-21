@@ -3,7 +3,5 @@
 <task id="remove_shopify_domain">
     <title>Remove Shopify Domain</title>
     <shortdesc></shortdesc>
-    <taskbody>
-        <p></p>
-    </taskbody>
+    <taskbody><?To remove a shopify domain, you must contact support to do so.?></taskbody>
 </task>

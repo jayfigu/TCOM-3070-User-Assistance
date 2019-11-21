@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jfigueroa38\Documents\GitHub\TCOM-3070-User-Assistance\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="adding_store_policies" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="task:1;3:34">
+    <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="title:1;4:12">Adding Store Policies</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="shortdesc:1;5:16">Policies are important so that your customers know how you handle refunds, privacy, and
+        terms of service for transactions. Store policies are added on a different webpage, but
+        will be displayed as links at the bottom of the customer checkout page for your store.
+        This requires 2 separate browser tabs to be open.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="taskbody:1;9:15">
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="cmd:1;12:22">In your Pages page, click Create a New Page</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="cmd:2;15:22">In a separate tab, access your store checkout settings. Copy each policy to your computers’ clipboard.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="step:3;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="cmd:3;19:22">Back to the first page, paste the clipboard contents. Then click Save Page.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="step:4;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/adding_store_policies.dita" xtrc="cmd:4;23:22">Add a link to the policies page so your customers can easily find it.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

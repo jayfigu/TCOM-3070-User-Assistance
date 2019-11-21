@@ -2,22 +2,185 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Users/jfigueroa38/AppData/Local/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Users/jfigueroa38/AppData/Local/Oxygen XML Editor 21/frameworks/dita/css/print/p-dita.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Users/jfigueroa38/AppData/Local/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
-<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/shopify_final_assignment.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Shopify Final Assignment</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/shopify_final_assignment.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        
+        <author class="- topic/author ">Radu</author>
+        
+        <copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright>
+        
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Shopify Final Assignment</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Shopify Final Assignment</title>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_tmd_sww_pjb"><resourceid appid="concept_tmd_sww_pjb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="getting_started"><resourceid appid="getting_started" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Getting Started</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Setting Up - Topic Head"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e36">Setting Up - Topic Head</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Creating a Store"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e37">Creating a Store</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creating_a_store_0"><resourceid appid="creating_a_store_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Creating a Store</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="setting_up_the_basics"><resourceid appid="setting_up_the_basics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Setting up the Basics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="adding_store_policies"><resourceid appid="adding_store_policies" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Adding Store Policies</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="adding_and_managing_products"><resourceid appid="adding_and_managing_products" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Adding and Managing Products</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="organizing_products"><resourceid appid="organizing_products" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Organizing Products</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="customizing_theme"><resourceid appid="customizing_theme" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Customizing Theme</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Completing your Profile"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e98">Completing your Profile</navtitle></topicmeta></topichead></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Domains"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e100">Domains</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Adding a Domain"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e101">Adding a Domain</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="domain_through_shopify"><resourceid appid="domain_through_shopify" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Domain Through Shopify</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="add_existing_domain"><resourceid appid="add_existing_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Add Existing Domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="verify_shopify_connection"><resourceid appid="verify_shopify_connection" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Verify Shopify Connection</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Managing a Domain"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e132">Managing a Domain</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="set_your_primary_domain"><resourceid appid="set_your_primary_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Set your primary domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="remove_a_third_party_domain"><resourceid appid="remove_a_third_party_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Remove a third-party domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="remove_shopify_domain"><resourceid appid="remove_shopify_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Remove Shopify Domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Selling Products"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e165">Selling Products</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="selling_in_person"><resourceid appid="selling_in_person" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Selling in Person</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="selling_online"><resourceid appid="selling_online" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Selling Online</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Customers"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e187">Customers</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Managing Customers"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e188">Managing Customers</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managing_customers"><resourceid appid="managing_customers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Managing Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="adding_customers"><resourceid appid="adding_customers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Adding Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="emailing_customers"><resourceid appid="emailing_customers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Emailing Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Editing Customer Information"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e219">Editing Customer Information</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="untitled24"><resourceid appid="untitled24" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Edit Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="task"><topicmeta class="- map/topicmeta " data-topic-id="untitled25"><resourceid appid="untitled25" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Edit a Customer's Name or Email</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="edit_customers_address"><resourceid appid="edit_customers_address" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Edit Customers Address</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="task"><topicmeta class="- map/topicmeta " data-topic-id="edit_customer_s_tag"><resourceid appid="edit_customer_s_tag" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Edit Customer's Tag</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Orders"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e261">Orders</navtitle></topicmeta></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Transactions"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e263">Transactions</navtitle></topicmeta></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Analytics"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e265">Analytics</navtitle></topicmeta></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Troubleshooting"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e267">Troubleshooting</navtitle></topicmeta></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Glossary"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e270">Glossary</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_24" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_nfc_2kj_sjb"><resourceid appid="reference_nfc_2kj_sjb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Glossary</shortdesc></topicmeta></topicref></topichead>
+    
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_tmd_sww_pjb"><resourceid appid="concept_tmd_sww_pjb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="getting_started"><resourceid appid="getting_started" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Getting Started</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Setting Up - Topic Head"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e68">Setting Up - Topic Head</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Creating a Store"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e69">Creating a Store</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creating_a_store_0"><resourceid appid="creating_a_store_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Creating a Store</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="setting_up_the_basics"><resourceid appid="setting_up_the_basics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Setting up the Basics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="adding_store_policies"><resourceid appid="adding_store_policies" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Adding Store Policies</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Policies are important so that your customers know how you handle refunds, privacy, and         terms of service for transactions. Store policies are added on a different webpage, but         will be displayed as links at the bottom of the customer checkout page for your store.         This requires 2 separate browser tabs to be open.</shortdesc><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Adding and Organizing Products"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e128">Adding and Organizing Products</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="adding_products"><resourceid appid="adding_products" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Adding Products</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="organizing_products"><resourceid appid="organizing_products" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Organizing Products</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Shopify allows you to create product collections to organize your products however you’d like through the use of collections. Examples of categories:         Clothes for men, women, or children         Items on sale         Items of a certain type, size or color         Seasonal products     </shortdesc><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="customizing_theme"><resourceid appid="customizing_theme" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Customizing Theme</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Completing your Profile"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e187">Completing your Profile</navtitle></topicmeta></topichead></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Domains"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e190">Domains</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Adding a Domain"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e191">Adding a Domain</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="domain_through_shopify"><resourceid appid="domain_through_shopify" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Domain Through Shopify</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Shopify has the ability to host your online store through either a third-party domain or one that’s been bought from us.</shortdesc><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="add_existing_domain"><resourceid appid="add_existing_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Add Existing Domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="verify_shopify_connection"><resourceid appid="verify_shopify_connection" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Verify Shopify Connection</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Managing a Domain"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e250">Managing a Domain</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="set_your_primary_domain"><resourceid appid="set_your_primary_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Set your primary domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The primary domain of your storefront is the domain name that customers see in the browser’s address bar.</shortdesc><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="remove_a_third_party_domain"><resourceid appid="remove_a_third_party_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Remove a third-party domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="remove_shopify_domain"><resourceid appid="remove_shopify_domain" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Remove Shopify Domain</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Selling Products"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e310">Selling Products</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="selling_in_person"><resourceid appid="selling_in_person" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Selling in Person</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="selling_online"><resourceid appid="selling_online" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Selling Online</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Customers"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e350">Customers</navtitle></topicmeta><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Managing Customers"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e351">Managing Customers</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managing_customers"><resourceid appid="managing_customers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Managing Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="adding_customers"><resourceid appid="adding_customers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Adding Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="emailing_customers"><resourceid appid="emailing_customers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Emailing Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Editing Customer Information"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e409">Editing Customer Information</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="untitled24"><resourceid appid="untitled24" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Edit Customers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="task"><topicmeta class="- map/topicmeta " data-topic-id="edit_customers_address"><resourceid appid="edit_customers_address" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Edit Customers Address</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="edit_customer_s_tag"><resourceid appid="edit_customer_s_tag" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Edit Customer's Tag</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="task"><topicmeta class="- map/topicmeta " data-topic-id="untitled25"><resourceid appid="untitled25" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Edit a Customer's Name or Email</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Orders"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e487">Orders</navtitle></topicmeta></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Transactions"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e489">Transactions</navtitle></topicmeta></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Analytics"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e491">Analytics</navtitle></topicmeta></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Troubleshooting"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e494">Troubleshooting</navtitle></topicmeta></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Glossary"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e496">Glossary</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_24" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_nfc_2kj_sjb"><resourceid appid="reference_nfc_2kj_sjb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Glossary</shortdesc><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></topicmeta></topicref></topichead>
 </opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_tmd_sww_pjb" oid="concept_tmd_sww_pjb">
     <title class="- topic/title ">Introduction</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">
             <div class="- topic/div "><p class="- topic/p " dir="ltr" id="unique_1_Connect_42_docs-internal-guid-a8013ec0-7fff-f906-1a5f-52b32c3d6c27" nd:nd-id="docs-internal-guid-a8013ec0-7fff-f906-1a5f-52b32c3d6c27">Welcome
@@ -31,97 +194,320 @@
     </conbody>
 </concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="getting_started" oid="getting_started">
     <title class="- topic/title ">Getting Started</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "/>
     </conbody>
-</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e36" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Setting Up - Topic Head</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e37" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Creating a Store</title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="creating_a_store_0" oid="creating_a_store_0">
+</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e68" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Setting Up - Topic Head</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e69" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Creating a Store</title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="creating_a_store_0" oid="creating_a_store_0">
     <title class="- topic/title ">Creating a Store</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
+        <p class="- topic/p ">To begin selling, you have to have an existing store. These steps will give you the
+            basics on how to properly set up all the components of your store.</p>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="setting_up_the_basics" oid="setting_up_the_basics">
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="setting_up_the_basics" oid="setting_up_the_basics">
     <title class="- topic/title ">Setting up the Basics</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="adding_store_policies" oid="adding_store_policies">
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Shopify Admin page, go to <b class="+ topic/ph hi-d/b ">Settings</b>.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">General</b>.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Locate the <b class="+ topic/ph hi-d/b ">Store Details </b>section and fill in all the necessary information.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save</b>.</cmd>
+            </step>
+        </steps>
+
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="adding_store_policies" oid="adding_store_policies">
     <title class="- topic/title ">Adding Store Policies</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="adding_and_managing_products" oid="adding_and_managing_products">
-    <title class="- topic/title ">Adding and Managing Products</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="organizing_products" oid="organizing_products">
+    <shortdesc class="- topic/shortdesc ">Policies are important so that your customers know how you handle refunds, privacy, and
+        terms of service for transactions. Store policies are added on a different webpage, but
+        will be displayed as links at the bottom of the customer checkout page for your store.
+        This requires 2 separate browser tabs to be open.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In your Pages page, click Create a New Page</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In a separate tab, access your store checkout settings. Copy each policy to your computers’ clipboard.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Back to the first page, paste the clipboard contents. Then click Save Page.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add a link to the policies page so your customers can easily find it.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><topic class="+ topic/topic pdf2-d/placeholder " id="d7e128" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Adding and Organizing Products</title><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="adding_products" oid="adding_products">
+    <title class="- topic/title ">Adding Products</title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Shopify Admin page, click on the Products tab to go to the Products page.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click Add Product to begin the process of adding in new products.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter in the details and logistics for your new product. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="organizing_products" oid="organizing_products">
     <title class="- topic/title ">Organizing Products</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="customizing_theme" oid="customizing_theme">
+    <shortdesc class="- topic/shortdesc ">Shopify allows you to create product collections to organize your products however you’d like through the use of collections. Examples of categories:
+        Clothes for men, women, or children
+        Items on sale
+        Items of a certain type, size or color
+        Seasonal products
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Collections page, click on Create Collection</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the new window, enter a Title and Description for the collection. This is a mandatory step.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Under Sales Channels make sure to choose which channels you want the collection to be listed under. (I.E. Shopify online store, Facebook, Amazon, etc.)</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">Collections allow you to choose whether products will be added in manually or automatically. This option cannot be changed later.</cmd>
+            
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you chose automatically: Add in the selection criteria under Conditions. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you chose manually: When adding in products manually at a later time, make sure you click Save after adding them. You can add the same product to several different collections.</cmd>
+                    </substep>
+                </substeps>
+            
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click Save Collection</cmd>
+            </step>
+        </steps>
+   
+    </taskbody>
+</task></topic><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="customizing_theme" oid="customizing_theme">
     <title class="- topic/title ">Customizing Theme</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e98" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Completing your Profile</title></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e100" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Domains</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e101" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Adding a Domain</title><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="domain_through_shopify" oid="domain_through_shopify">
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+       
+    </taskbody>
+</task></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e187" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Completing your Profile</title></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e190" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Domains</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e191" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Adding a Domain</title><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="domain_through_shopify" oid="domain_through_shopify">
     <title class="- topic/title ">Domain Through Shopify</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="add_existing_domain" oid="add_existing_domain">
+    <shortdesc class="- topic/shortdesc ">Shopify has the ability to host your online store through either a third-party domain or one that’s been bought from us.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to the domain purchasing page, on shopify.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To see if the domain name you want is available click Domain Search  and type the domain in the text box. Click Generate domains to search.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If the domain name is available, or an alternative is, choose which one you want, but be sure to look at the yearly price as well, since different domains have different prices.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Follow the prompts from there and if fully seen through, you’ll have a new domain for your Shopify shop!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="add_existing_domain" oid="add_existing_domain">
     <title class="- topic/title ">Add Existing Domain</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="verify_shopify_connection" oid="verify_shopify_connection">
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+       
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="verify_shopify_connection" oid="verify_shopify_connection">
     <title class="- topic/title ">Verify Shopify Connection</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e132" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Managing a Domain</title><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="set_your_primary_domain" oid="set_your_primary_domain">
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Shopify Admin page, click Verify connection to verify that your domain has been connected to your store.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e250" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Managing a Domain</title><task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="set_your_primary_domain" oid="set_your_primary_domain">
     <title class="- topic/title ">Set your primary domain</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="remove_a_third_party_domain" oid="remove_a_third_party_domain">
+    <shortdesc class="- topic/shortdesc ">The primary domain of your storefront is the domain name that customers see in the browser’s address bar.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Shopify Admin page, go to the Online Store &gt; Domains.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In Primary Domain, click Change primary domain.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the domain you would like set as the primary from the prompt.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click Save.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="remove_a_third_party_domain" oid="remove_a_third_party_domain">
     <title class="- topic/title ">Remove a third-party domain</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="remove_shopify_domain" oid="remove_shopify_domain">
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Shopify Admin page, go to Online Store &gt; Domains.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In Third-party domains, locate the domain you want to remove and click Remove.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click Remove again to confirm.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="remove_shopify_domain" oid="remove_shopify_domain">
     <title class="- topic/title ">Remove Shopify Domain</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
-    </conbody>
-</concept></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e165" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Selling Products</title><concept class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="selling_in_person" oid="selling_in_person">
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody "><?To remove a shopify domain, you must contact support to do so.?></taskbody>
+</task></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e310" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Selling Products</title><concept class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="selling_in_person" oid="selling_in_person">
     <title class="- topic/title ">Selling in Person</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "/>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="selling_online" oid="selling_online">
     <title class="- topic/title ">Selling Online</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "/>
     </conbody>
-</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e187" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Customers</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e188" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Managing Customers</title><concept class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="managing_customers" oid="managing_customers">
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e350" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Customers</title><topic class="+ topic/topic pdf2-d/placeholder " id="d7e351" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Managing Customers</title><concept class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="managing_customers" oid="managing_customers">
     <title class="- topic/title ">Managing Customers</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">New customers will have their names and information added to customer lists when they
             place an order in your store, allowing you to email them using their profile
@@ -131,7 +517,13 @@
     </conbody>
 </concept><task class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="adding_customers" oid="adding_customers">
     <title class="- topic/title ">Adding Customers</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p "/>
@@ -162,7 +554,13 @@
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="emailing_customers" oid="emailing_customers">
     <title class="- topic/title ">Emailing Customers</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p "/>
@@ -182,47 +580,29 @@
             </step>
         </steps>
     </taskbody>
-</task></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e219" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Editing Customer Information</title><concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="untitled24" oid="untitled24">
+</task></topic><topic class="+ topic/topic pdf2-d/placeholder " id="d7e409" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Editing Customer Information</title><concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="untitled24" oid="untitled24">
     <title class="- topic/title ">Edit Customers</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Go to the <b class="+ topic/ph hi-d/b ">Customers</b> page from the Shopify Admin, and click the <b class="+ topic/ph hi-d/b ">Edit
                 customer</b> button.</p>
         <p class="- topic/p ">.</p>
     </conbody>
-</concept><task class="- topic/topic task/task " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="untitled25" oid="untitled25">
-    <title class="- topic/title ">Edit a Customer's Name or Email</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <taskbody class="- topic/body task/taskbody ">
-        <context class="- topic/section task/context ">
-            <p class="- topic/p "/>
-        </context>
-        <steps class="- topic/ol task/steps ">
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">From your Shopify admin, go to the Customers sections.</cmd>
-            </step>
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Click the name of the customer profile you want to edit.</cmd>
-            </step>
-            
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">In the Customer overview section, click Edit.</cmd>
-                <info class="- topic/itemgroup task/info ">In the Edit customer dialog, you can change the customers:<ul class="- topic/ul " id="unique_21_Connect_42_ul_m1g_l15_tjb" nd:nd-id="ul_m1g_l15_tjb">
-                        <li class="- topic/li ">First name.</li>
-                        <li class="- topic/li ">Last name.</li>
-                        <li class="- topic/li ">Email address.</li>
-                        <li class="- topic/li ">Phone Number</li>
-                        <li class="- topic/li ">Acklodgement to receive marketing</li>
-                    </ul></info>
-            </step>
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save</b> to confirm your changes to the customer profile’s Information. </cmd>
-            </step>
-        </steps>
-    </taskbody>
-</task><task class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="edit_customers_address" oid="edit_customers_address">
+</concept><task class="- topic/topic task/task " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="edit_customers_address" oid="edit_customers_address">
     <title class="- topic/title ">Edit Customers Address</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p "/>
@@ -245,9 +625,15 @@
             </step>
         </steps>
     </taskbody>
-</task><task class="- topic/topic task/task " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="edit_customer_s_tag" oid="edit_customer_s_tag">
+</task><task class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="edit_customer_s_tag" oid="edit_customer_s_tag">
     <title class="- topic/title ">Edit Customer's Tag</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">Using tags can help you organize your customer profile list. You can use tags to
@@ -269,9 +655,51 @@
             </step>
         </steps>
     </taskbody>
-</task></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e261" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Orders</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e263" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Transactions</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e265" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Analytics</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e267" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Troubleshooting</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e270" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Glossary</title><reference class="- topic/topic       reference/reference " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="reference_nfc_2kj_sjb" oid="reference_nfc_2kj_sjb">
+</task><task class="- topic/topic task/task " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="untitled25" oid="untitled25">
+    <title class="- topic/title ">Edit a Customer's Name or Email</title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From your Shopify admin, go to the Customers sections.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the name of the customer profile you want to edit.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Customer overview section, click Edit.</cmd>
+                <info class="- topic/itemgroup task/info ">In the Edit customer dialog, you can change the customers:<ul class="- topic/ul " id="unique_23_Connect_42_ul_m1g_l15_tjb" nd:nd-id="ul_m1g_l15_tjb">
+                        <li class="- topic/li ">First name.</li>
+                        <li class="- topic/li ">Last name.</li>
+                        <li class="- topic/li ">Email address.</li>
+                        <li class="- topic/li ">Phone Number</li>
+                        <li class="- topic/li ">Acklodgement to receive marketing</li>
+                    </ul></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save</b> to confirm your changes to the customer profile’s Information. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e487" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Orders</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e489" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Transactions</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e491" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Analytics</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e494" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Troubleshooting</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e496" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Glossary</title><reference class="- topic/topic       reference/reference " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="reference_nfc_2kj_sjb" oid="reference_nfc_2kj_sjb">
     <title class="- topic/title ">Glossary</title>
-    <shortdesc class="- topic/shortdesc ">Glossary</shortdesc>
+    <shortdesc class="- topic/shortdesc ">Glossary</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2008"/>
+            
+            <copyrholder class="- topic/copyrholder ">Radu</copyrholder>
+            
+        </copyright></prolog>
     <refbody class="- topic/body        reference/refbody ">
         <refbodydiv class="- topic/bodydiv     reference/refbodydiv ">
             <section class="- topic/section " id="unique_24_Connect_42_section_lnh_nkj_sjb" nd:nd-id="section_lnh_nkj_sjb">

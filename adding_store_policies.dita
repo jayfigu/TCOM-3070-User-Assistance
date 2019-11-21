@@ -2,8 +2,32 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_store_policies">
     <title>Adding Store Policies</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Policies are important so that your customers know how you handle refunds, privacy, and
+        terms of service for transactions. Store policies are added on a different webpage, but
+        will be displayed as links at the bottom of the customer checkout page for your store.
+        This requires 2 separate browser tabs to be open.</shortdesc>
     <taskbody>
-        <p></p>
+        <steps>
+            <step>
+                <cmd>In your Pages page, click Create a New Page</cmd>
+            </step>
+            <step>
+                <cmd>In a separate tab, access your store checkout settings. Copy each policy to your computers’ clipboard.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Back to the first page, paste the clipboard contents. Then click Save Page.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Add a link to the policies page so your customers can easily find it.</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>
+
+
+
+
+
+

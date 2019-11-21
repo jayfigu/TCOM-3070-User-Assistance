@@ -2,15 +2,30 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Shopify Final Assignment</title>
+    <topicmeta>
+        
+        <author>Radu</author>
+        
+        <copyright>
+            
+            <copyryear year="2008"/>
+            
+            <copyrholder>Radu</copyrholder>
+            
+        </copyright>
+        
+    </topicmeta>
     <topicref href="introduction.dita"/>
     <topicref href="getting_started.dita"/>
     <topichead navtitle="Setting Up - Topic Head">
         <topichead navtitle="Creating a Store">
-            <topicref href="creating_a_store_0.dita"/>
+            <topicref href="creating_a_store.dita"/>
             <topicref href="setting_up_the_basics.dita"/>
             <topicref href="adding_store_policies.dita"/>
-            <topicref href="adding_and_managing_products.dita"/>
-            <topicref href="organizing_products.dita"/>
+            <topichead navtitle="Adding and Organizing Products">
+                <topicref href="adding_products.dita"/>
+                <topicref href="organizing_products.dita"/>
+            </topichead>
             <topicref href="customizing_theme.dita"/>
         </topichead>
         <topichead navtitle="Completing your Profile"/>
@@ -38,10 +53,10 @@
             <topicref href="emailing_customers.dita"/>
         </topichead>
         <topichead navtitle="Editing Customer Information">
-            <topicref href="untitled24.dita"/>
-            <topicref href="untitled25.dita"/>
+            <topicref href="edit_customers.dita"/>
             <topicref href="edit_customers_address.dita"/>
             <topicref href="edit_customer_s_tag.dita"/>
+            <topicref href="edit_customers_name_or_email.dita"/>
         </topichead>
     </topichead>
     <topichead navtitle="Orders"/>

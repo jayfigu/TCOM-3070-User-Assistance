@@ -2,8 +2,28 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="domain_through_shopify">
     <title>Domain Through Shopify</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Shopify has the ability to host your online store through either a third-party domain or one that’s been bought from us.</shortdesc>
     <taskbody>
-        <p></p>
+        <steps>
+            <step>
+                <cmd>Navigate to the domain purchasing page, on shopify.</cmd>
+            </step>
+            <step>
+                <cmd>To see if the domain name you want is available click Domain Search  and type the domain in the text box. Click Generate domains to search.</cmd>
+            </step>
+            
+            <step>
+                <cmd>If the domain name is available, or an alternative is, choose which one you want, but be sure to look at the yearly price as well, since different domains have different prices.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the prompts from there and if fully seen through, you’ll have a new domain for your Shopify shop!</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>
+
+
+
+
+
+

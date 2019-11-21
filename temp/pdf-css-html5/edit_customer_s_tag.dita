@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jfigueroa38\Documents\GitHub\TCOM-3070-User-Assistance\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="edit_customer_s_tag" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="task:1;3:32">
+    <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="title:1;4:12">Edit Customer's Tag</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="p:1;8:16">Using tags can help you organize your customer profile list. You can use tags to
+                label your customers with categories or descriptive terms. For example, if you have
+                wholesale customers, then you can tag those customers as wholesale.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="steps:1;12:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="step:1;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="cmd:1;14:22">From your Shopify admin, go to <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="b:1;14:56">Customers</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="step:2;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="cmd:2;17:22">Click the name of the customer profile you want to edit.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="step:3;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="cmd:3;20:22">In the Tags section, add or edit your customer profile tags in the text box.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="step:4;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/edit_customer_s_tag.dita" xtrc="cmd:4;23:22">Click Save to confirm your changes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

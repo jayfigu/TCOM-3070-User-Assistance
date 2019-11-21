@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jfigueroa38\Documents\GitHub\TCOM-3070-User-Assistance\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="emailing_customers" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="task:1;3:31">
+    <title class="- topic/title " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="title:1;4:12">Emailing Customers</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="cmd:1;12:22">On the Shopify Admin, click the Customers button, and select the profiles of the customers you want to email.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="cmd:2;15:22">Click the customer’s email address in the Customer overview, and then edit the subject as necessary (  {{ shop.name }}  can be used to automatically generate your store’s name in an email).</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="cmd:3;18:22">Type your message in the message field, and if you want to keep a copy for records, enter the email you want the copies sent to in the Send bcc to field.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="step:4;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/emailing_customers.dita" xtrc="cmd:4;21:22">Click the Review email when you are done, and then click Send notification if you are satisfied with the message, or Back if you want to revise the message.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -2,8 +2,42 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="organizing_products">
     <title>Organizing Products</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Shopify allows you to create product collections to organize your products however you’d like through the use of collections. Examples of categories:
+        Clothes for men, women, or children
+        Items on sale
+        Items of a certain type, size or color
+        Seasonal products
+    </shortdesc>
     <taskbody>
-        <p></p>
+        <steps>
+            
+            <step>
+                <cmd>From the Collections page, click on Create Collection</cmd>
+            </step>
+            <step>
+                <cmd>In the new window, enter a Title and Description for the collection. This is a mandatory step.</cmd>
+            </step>
+            <step>
+                <cmd>Under Sales Channels make sure to choose which channels you want the collection to be listed under. (I.E. Shopify online store, Facebook, Amazon, etc.)</cmd>
+            </step>
+            <step>
+                
+                <cmd>Collections allow you to choose whether products will be added in manually or automatically. This option cannot be changed later.</cmd>
+            
+                <substeps>
+                    <substep>
+                        <cmd>If you chose automatically: Add in the selection criteria under Conditions. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If you chose manually: When adding in products manually at a later time, make sure you click Save after adding them. You can add the same product to several different collections.</cmd>
+                    </substep>
+                </substeps>
+            
+            </step>
+            <step>
+                <cmd>Click Save Collection</cmd>
+            </step>
+        </steps>
+   
     </taskbody>
 </task>

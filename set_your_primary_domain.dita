@@ -2,8 +2,28 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="set_your_primary_domain">
     <title>Set your primary domain</title>
-    <shortdesc></shortdesc>
+    <shortdesc>The primary domain of your storefront is the domain name that customers see in the browser’s address bar.</shortdesc>
     <taskbody>
-        <p></p>
+        <steps>
+            <step>
+                <cmd>From the Shopify Admin page, go to the Online Store > Domains.</cmd>
+            </step>
+            <step>
+                <cmd>In Primary Domain, click Change primary domain.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Select the domain you would like set as the primary from the prompt.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Click Save.</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>
+
+
+
+
+
