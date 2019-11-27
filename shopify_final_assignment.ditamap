@@ -59,10 +59,28 @@
             <topicref href="edit_customers_name_or_email.dita"/>
         </topichead>
     </topichead>
-    <topichead navtitle="Orders"/>
-    <topichead navtitle="Transactions"/>
-    <topichead navtitle="Analytics"/>
-    <topichead navtitle="Troubleshooting"/>
+    <topichead navtitle="Orders">
+        <topicref href="orders_process.dita"/>
+        <topichead navtitle="Order Process Page">
+            <topicref href="status_page_overview.dita"/>
+            <topicref href="customizing_your_email_templates.dita"/>
+        </topichead>
+    </topichead>
+    <topichead navtitle="Transactions">
+        <topicref href="transactions.dita"/>
+        <topicref href="payment_methods.dita"/>
+        <topichead navtitle="Orders and Refunds">
+            <topicref href="searching_for_an_order.dita"/>
+            <topicref href="refund_an_order.dita"/>
+        </topichead>
+    </topichead>
+    <topichead navtitle="Analytics">
+        <topicref href="analytics.dita"/>
+        <topicref href="analytics___view_your_data.dita"/>
+    </topichead>
+    <topichead navtitle="Troubleshooting">
+        <topicref href="troubleshooting.dita"/>
+    </topichead>
     <topichead navtitle="Glossary">
         <topicref href="Glossary.dita"/>
     </topichead>

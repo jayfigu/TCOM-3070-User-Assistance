@@ -4,14 +4,21 @@
     <title>Orders Process</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>New orders will appear in the orders page when a customer makes a purchase from one of your online stores or sales channels. Orders are categorized into 3 different states in the processing flow:
-            <ul>
-                <li>Order has been placed (Capturing payments): This occurs when customers use a credit/debit card to purchase and order. During this time, the bank is processing the purchase and determining whether the funds can be spent or not.</li>
-                <li>Order has been paid (Fulfilling order): At this point, it’s up to you to ship their order, hence why this process is referred to as order fulfillment.</li>
-                <li>Order has been fulfilled and paid (Archive the order): The order has been both paid for and shipped. The customer has received their order, so there’s no need to process the order further.</li>
+        <p>New orders will appear in the orders page when a customer makes a purchase from one of
+            your online stores or sales channels. Orders are categorized into 3 different states in
+            the processing flow: <ul>
+                <li>Order has been placed (Capturing payments): This occurs when customers use a
+                    credit/debit card to purchase and order. During this time, the bank is
+                    processing the purchase and determining whether the funds can be spent or
+                    not.</li>
+                <li>Order has been paid (Fulfilling order): At this point, it’s up to you to ship
+                    their order, hence why this process is referred to as order fulfillment.</li>
+                <li>Order has been fulfilled and paid (Archive the order): The order has been both
+                    paid for and shipped. The customer has received their order, so there’s no need
+                    to process the order further.</li>
             </ul>
-            
-            
-        </p>
-    </conbody>
+            <image placement="break" href="img/Search%20for%20Order.png" align="center"
+                id="image_f4q_lzj_vjb"/></p>
+        
+      </conbody>
 </concept>

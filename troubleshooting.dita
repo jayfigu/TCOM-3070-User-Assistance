@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="troubleshooting">
+    <title>Troubleshooting</title>
+    <shortdesc></shortdesc>
+    <refbody>
+      <refbodydiv>
+          
+         <section>
+             <title>What is Shopify’s IP address?</title>
+             <p>When using a third-party or external domain for your shop, usually you must
+                 state shopify’s IP address for the third-party provider. If so, it is 23.227.38.65. This
+                 IP will need to be set as your A record on the other site.</p>
+         </section>
+          
+          <section>
+              <title><b>How do I change my myshopify.com domain?</b></title>
+              <p>You cannot because your myshopify.com domain is a URL that is a unique
+                  identifier for your store, therefore it can’t be changed or removed. However, it can be
+                  replaced with a custom domain name.</p>
+          </section>
+          
+          <section>
+              <title><b>Why isn’t my Shopify POS synced with my Shopify Admin?</b></title>
+              <p>The Shopify POS app usually updates automatically with any changes made on the
+                  admin page, but if you find the desktop and mobile apps aren’t synced with the same
+                  information, you can force the app to resync with the Shopify admin.</p>
+              <p>
+                  From the Shopify POS app, press your Ipad’s home button to send the
+                  app into the background.
+              </p>
+              <p>
+                  From the Ipad’s home screen, find and tap the Shopify POS app.
+              </p>
+              <p>
+                  Check to see if the app has been updated with the new changes.
+              </p>
+              <p>
+                  If the app still hasn’t updated, force close the app, then reopen it.
+              </p>
+              <p>
+                  Double tap the home button to bring up all of the running apps on
+                  the Ipad.
+              </p>
+              <p>
+                  Located the shopify app and swipe the window up until the window
+                  has left the screen.
+              </p>
+              <p>
+                  Tap the home button again, then located the Shopify POS app and tap
+                  it open.
+              </p>
+          </section>
+          
+          <section>
+              <title></title>
+              <p></p>
+          </section>
+          
+          
+          
+      </refbodydiv>
+        
+          
+       
+    </refbody>
+</reference>

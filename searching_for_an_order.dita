@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="searching_for_an_order">
+    <title>Searching for an Order</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+            <ol id="ol_yzj_pbq_5jb">
+                <li dir="ltr">
+                    <p dir="ltr">On the <b>Orders </b>screen, tap the search icon.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">In the search field, enter in either the <b>order ID, receipt
+                            number, </b>or <b>customer name</b>. Results will appear beneath the
+                        search bar.</p>
+                </li>
+            </ol>
+            <p>Choose an order to open it up, or tap <b>Cancel </b>to return to the previous
+                screen.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

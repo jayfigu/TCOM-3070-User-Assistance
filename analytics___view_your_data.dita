@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="analytics___view_your_data">
+    <title>Analytics - View your Data</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+            <ul id="ul_anq_gcq_5jb">
+                <li dir="ltr">
+                    <p dir="ltr">1.) From your Shopify admin, go to <b>Analytics</b> >
+                            <b>Dashboards</b>. By default, the dashboard shows data for today
+                        compared to yesterday.</p>
+                </li>
+            </ul>
+            <ul id="ul_bnq_gcq_5jb">
+                <li dir="ltr">
+                    <p dir="ltr">2.) If you want to see data for another date range, then click the
+                        date menu and select a different date range. You can select a preset range,
+                        such as <b>Last 30 days</b>, or you can set any custom range by clicking
+                        dates on the calendar.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">3.) If you want to show comparisons with the previous period or to
+                        the same date range from the previous year, then check <b>Compare to
+                            previous dates</b> and select a comparison value.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">4.) Click <b>Apply</b>.</p>
+                </li>
+            </ul>
+            <p>5.) Optional: If the <b>View report</b> link is shown, then click it to see more
+                details about the metric. Not all metrics have a report, and you need to be on a
+                plan that provides the detailed Shopify</p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

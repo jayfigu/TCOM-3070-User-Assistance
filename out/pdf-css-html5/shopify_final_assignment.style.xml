@@ -1829,6 +1829,170 @@
                                                   ><css:leader pattern="."/><css:target-counter
                                                   url-fragment="d7e487"/></css:after></div>
                                         </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_24" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="orders_process">
+                                                <css:before css:display="inline"/>
+                                                <div appid="orders_process"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_24"
+                                                  css:text-align-last="justify" href="#unique_24"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_24"/>Orders Process<css:after
+                                                  css:display="inline" css:link="#unique_24"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_24"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="+ map/topicref mapgroup-d/topichead topicref topichead"
+                                            css:display="block" css:font-weight="normal"
+                                            css:margin-bottom="0.5em" css:margin-left="2em"
+                                            css:margin-top="0.5em" navtitle="Order Process Page">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0">
+                                                <css:before css:display="inline"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#d7e507"
+                                                  css:text-align-last="justify" href="#d7e507"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#d7e507"/>Order Process Page<css:after
+                                                  css:display="inline" css:link="#d7e507"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="d7e507"/></css:after></div>
+                                            </div>
+                                            <div class="- map/topicref topicref" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="2em"
+                                                css:margin-top="0.5em" href="#unique_25"
+                                                type="concept">
+                                                <div class="- map/topicmeta topicmeta"
+                                                  css:border-bottom-color="transparent"
+                                                  css:border-bottom-style="none"
+                                                  css:border-left-color="transparent"
+                                                  css:border-left-style="none"
+                                                  css:border-right-color="transparent"
+                                                  css:border-right-style="none"
+                                                  css:border-top-color="transparent"
+                                                  css:border-top-style="none" css:display="block"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0"
+                                                  css:padding-bottom="0" css:padding-left="0"
+                                                  css:padding-right="0" css:padding-top="0"
+                                                  data-topic-id="status_page_overview">
+                                                  <css:before css:display="inline"/>
+                                                  <div appid="status_page_overview"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                  <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_25"
+                                                  css:text-align-last="justify" href="#unique_25"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_25"/>Status Page
+                                                  Overview<css:after css:display="inline"
+                                                  css:link="#unique_25"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_25"
+                                                  /></css:after></div>
+                                                  <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                  <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                  <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                            <div class="- map/topicref topicref" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="2em"
+                                                css:margin-top="0.5em" href="#unique_26" type="task">
+                                                <div class="- map/topicmeta topicmeta"
+                                                  css:border-bottom-color="transparent"
+                                                  css:border-bottom-style="none"
+                                                  css:border-left-color="transparent"
+                                                  css:border-left-style="none"
+                                                  css:border-right-color="transparent"
+                                                  css:border-right-style="none"
+                                                  css:border-top-color="transparent"
+                                                  css:border-top-style="none" css:display="block"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0"
+                                                  css:padding-bottom="0" css:padding-left="0"
+                                                  css:padding-right="0" css:padding-top="0"
+                                                  data-topic-id="customizing_your_email_templates">
+                                                  <css:before css:display="inline"/>
+                                                  <div appid="customizing_your_email_templates"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                  <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_26"
+                                                  css:text-align-last="justify" href="#unique_26"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_26"/>Customizing your Email
+                                                  Templates<css:after css:display="inline"
+                                                  css:link="#unique_26"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_26"
+                                                  /></css:after></div>
+                                                  <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">The email templates control the
+                                                  Order confirmation and Shipping emails that
+                                                  customers are sent when their orders are fulfilled
+                                                  or updated. These emails are automatically sent to
+                                                  customers, but can be customized to fit what you
+                                                  would like the customers to see.</div>
+                                                  <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                  <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div
                                         class="+ map/topicref mapgroup-d/topichead topicref topichead"
@@ -1851,16 +2015,216 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e489"
-                                                css:text-align-last="justify" href="#d7e489"
+                                                css:display="block" css:link="#d7e548"
+                                                css:text-align-last="justify" href="#d7e548"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e489"><css:text>Chapter
+                                                  css:link="#d7e548"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="8"/><css:text>.
                                                   </css:text></css:before>Transactions<css:after
-                                                  css:display="inline" css:link="#d7e489"
+                                                  css:display="inline" css:link="#d7e548"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e489"/></css:after></div>
+                                                  url-fragment="d7e548"/></css:after></div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_27" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="transactions">
+                                                <css:before css:display="inline"/>
+                                                <div appid="transactions"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_27"
+                                                  css:text-align-last="justify" href="#unique_27"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_27"/>Transactions<css:after
+                                                  css:display="inline" css:link="#unique_27"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_27"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_28" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="payment_methods">
+                                                <css:before css:display="inline"/>
+                                                <div appid="payment_methods"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_28"
+                                                  css:text-align-last="justify" href="#unique_28"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_28"/>Payment Methods<css:after
+                                                  css:display="inline" css:link="#unique_28"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_28"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="+ map/topicref mapgroup-d/topichead topicref topichead"
+                                            css:display="block" css:font-weight="normal"
+                                            css:margin-bottom="0.5em" css:margin-left="2em"
+                                            css:margin-top="0.5em" navtitle="Orders and Refunds">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0">
+                                                <css:before css:display="inline"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#d7e587"
+                                                  css:text-align-last="justify" href="#d7e587"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#d7e587"/>Orders and Refunds<css:after
+                                                  css:display="inline" css:link="#d7e587"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="d7e587"/></css:after></div>
+                                            </div>
+                                            <div class="- map/topicref topicref" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="2em"
+                                                css:margin-top="0.5em" href="#unique_29" type="task">
+                                                <div class="- map/topicmeta topicmeta"
+                                                  css:border-bottom-color="transparent"
+                                                  css:border-bottom-style="none"
+                                                  css:border-left-color="transparent"
+                                                  css:border-left-style="none"
+                                                  css:border-right-color="transparent"
+                                                  css:border-right-style="none"
+                                                  css:border-top-color="transparent"
+                                                  css:border-top-style="none" css:display="block"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0"
+                                                  css:padding-bottom="0" css:padding-left="0"
+                                                  css:padding-right="0" css:padding-top="0"
+                                                  data-topic-id="searching_for_an_order">
+                                                  <css:before css:display="inline"/>
+                                                  <div appid="searching_for_an_order"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                  <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_29"
+                                                  css:text-align-last="justify" href="#unique_29"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_29"/>Searching for an
+                                                  Order<css:after css:display="inline"
+                                                  css:link="#unique_29"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_29"
+                                                  /></css:after></div>
+                                                  <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                  <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                  <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                            <div class="- map/topicref topicref" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="2em"
+                                                css:margin-top="0.5em" href="#unique_30" type="task">
+                                                <div class="- map/topicmeta topicmeta"
+                                                  css:border-bottom-color="transparent"
+                                                  css:border-bottom-style="none"
+                                                  css:border-left-color="transparent"
+                                                  css:border-left-style="none"
+                                                  css:border-right-color="transparent"
+                                                  css:border-right-style="none"
+                                                  css:border-top-color="transparent"
+                                                  css:border-top-style="none" css:display="block"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0"
+                                                  css:padding-bottom="0" css:padding-left="0"
+                                                  css:padding-right="0" css:padding-top="0"
+                                                  data-topic-id="refund_an_order">
+                                                  <css:before css:display="inline"/>
+                                                  <div appid="refund_an_order"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                  <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_30"
+                                                  css:text-align-last="justify" href="#unique_30"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_30"/>Refund an Order<css:after
+                                                  css:display="inline" css:link="#unique_30"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_30"/></css:after></div>
+                                                  <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                  <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                  <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                  </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div
@@ -1884,16 +2248,103 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e491"
-                                                css:text-align-last="justify" href="#d7e491"
+                                                css:display="block" css:link="#d7e627"
+                                                css:text-align-last="justify" href="#d7e627"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e491"><css:text>Chapter
+                                                  css:link="#d7e627"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="9"/><css:text>.
                                                   </css:text></css:before>Analytics<css:after
-                                                  css:display="inline" css:link="#d7e491"
+                                                  css:display="inline" css:link="#d7e627"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e491"/></css:after></div>
+                                                  url-fragment="d7e627"/></css:after></div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_31" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="analytics">
+                                                <css:before css:display="inline"/>
+                                                <div appid="analytics"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_31"
+                                                  css:text-align-last="justify" href="#unique_31"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_31"/>Analytics<css:after
+                                                  css:display="inline" css:link="#unique_31"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_31"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_32" type="task">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="analytics___view_your_data">
+                                                <css:before css:display="inline"/>
+                                                <div appid="analytics___view_your_data"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_32"
+                                                  css:text-align-last="justify" href="#unique_32"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_32"/>Analytics - View your
+                                                  Data<css:after css:display="inline"
+                                                  css:link="#unique_32"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_32"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div
@@ -1917,16 +2368,59 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e494"
-                                                css:text-align-last="justify" href="#d7e494"
+                                                css:display="block" css:link="#d7e668"
+                                                css:text-align-last="justify" href="#d7e668"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e494"><css:text>Chapter
+                                                  css:link="#d7e668"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="10"/><css:text>.
                                                   </css:text></css:before>Troubleshooting<css:after
-                                                  css:display="inline" css:link="#d7e494"
+                                                  css:display="inline" css:link="#d7e668"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e494"/></css:after></div>
+                                                  url-fragment="d7e668"/></css:after></div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_33" type="reference">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="troubleshooting">
+                                                <css:before css:display="inline"/>
+                                                <div appid="troubleshooting"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_33"
+                                                  css:text-align-last="justify" href="#unique_33"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_33"/>Troubleshooting<css:after
+                                                  css:display="inline" css:link="#unique_33"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_33"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div
@@ -1949,21 +2443,21 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e496"
-                                                css:text-align-last="justify" href="#d7e496"
+                                                css:display="block" css:link="#d7e689"
+                                                css:text-align-last="justify" href="#d7e689"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e496"><css:text>Chapter
+                                                  css:link="#d7e689"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="11"/><css:text>.
                                                   </css:text></css:before>Glossary<css:after
-                                                  css:display="inline" css:link="#d7e496"
+                                                  css:display="inline" css:link="#d7e689"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e496"/></css:after></div>
+                                                  url-fragment="d7e689"/></css:after></div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_24" type="reference">
+                                            href="#unique_34" type="reference">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -1983,13 +2477,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_24"
-                                                  css:text-align-last="justify" href="#unique_24"
+                                                  css:display="block" css:link="#unique_34"
+                                                  css:text-align-last="justify" href="#unique_34"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_24"/>Glossary<css:after
-                                                  css:display="inline" css:link="#unique_24"
+                                                  css:link="#unique_34"/>Glossary<css:after
+                                                  css:display="inline" css:link="#unique_34"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="unique_24"/></css:after></div>
+                                                  url-fragment="unique_34"/></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none">Glossary</div>
                                                 <div class="- topic/author author"
@@ -4165,6 +4659,264 @@
                                                 ><css:text>Chapter </css:text><css:counter
                                                 name="chapter" value="7"/><css:text>.
                                             </css:text></css:before>Orders</h1>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title36"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_24" nd:nd-id="orders_process"
+                                        oid="orders_process" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title36"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Orders Process</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/author author" css:display="none"
+                                                >Radu</div>
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <div class="- topic/p p" css:display="block">New orders
+                                                will appear in the orders page when a customer makes
+                                                a purchase from one of your online stores or sales
+                                                channels. Orders are categorized into 3 different
+                                                states in the processing flow: <ul
+                                                  class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Order has been placed
+                                                  (Capturing payments): This occurs when customers
+                                                  use a credit/debit card to purchase and order.
+                                                  During this time, the bank is processing the
+                                                  purchase and determining whether the funds can be
+                                                  spent or not.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Order has been paid
+                                                  (Fulfilling order): At this point, it’s up to you
+                                                  to ship their order, hence why this process is
+                                                  referred to as order fulfillment.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Order has been fulfilled and
+                                                  paid (Archive the order): The order has been both
+                                                  paid for and shipped. The customer has received
+                                                  their order, so there’s no need to process the
+                                                  order further.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title37"
+                                        class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e507"
+                                        topicrefclass="+ map/topicref mapgroup-d/topichead ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title37"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Order Process Page</h2>
+                                        <article
+                                            xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                            aria-labelledby="ariaid-title38"
+                                            class="- topic/topic concept/concept topic concept nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_25" nd:nd-id="status_page_overview"
+                                            oid="status_page_overview"
+                                            topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title38"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>Status Page Overview</h3>
+                                            <div class="- topic/prolog prolog"
+                                                css:background-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-style="none"
+                                                css:border-right-style="none"
+                                                css:border-top-style="none" css:color="transparent"
+                                                css:display="none" css:font-size="0" css:height="0"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                css:width="0">
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                            <div class="- topic/body concept/conbody body conbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em"/>
+                                                <p class="- topic/p p" css:direction="ltr"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em" css:unicode-bidi="embed"
+                                                  dir="ltr"
+                                                  id="unique_25_Connect_42_docs-internal-guid-69b20a3b-7fff-853e-f7af-701c719a80ab"
+                                                  nd:nd-id="docs-internal-guid-69b20a3b-7fff-853e-f7af-701c719a80ab"
+                                                  >The overview shows you the overall status of all
+                                                  the orders placed by customers. Customers are
+                                                  given the option to receive links to their order
+                                                  status page by email. The email sent to them is a
+                                                  template that includes the page URL the order
+                                                  status page that tells them:</p>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_25_Connect_42_ul_mxh_bbj_5jb"
+                                                  nd:nd-id="ul_mxh_bbj_5jb">
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">Order
+                                                  confirmation</li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr"> Shipping
+                                                  confirmation </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr"> Shipping
+                                                  update </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <article
+                                            xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                            aria-labelledby="ariaid-title39"
+                                            class="- topic/topic task/task topic task nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_26"
+                                            nd:nd-id="customizing_your_email_templates"
+                                            oid="customizing_your_email_templates"
+                                            topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title39"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>Customizing your Email
+                                                Templates</h3>
+                                            <div class="- topic/prolog prolog"
+                                                css:background-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-style="none"
+                                                css:border-right-style="none"
+                                                css:border-top-style="none" css:color="transparent"
+                                                css:display="none" css:font-size="0" css:height="0"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                css:width="0">
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                            <div class="- topic/body task/taskbody body taskbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em">The email templates control
+                                                  the Order confirmation and Shipping emails that
+                                                  customers are sent when their orders are fulfilled
+                                                  or updated. These emails are automatically sent to
+                                                  customers, but can be customized to fit what you
+                                                  would like the customers to see.</p>
+                                                <section
+                                                  class="- topic/section task/context section context"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Customization is formatted using HTML, so if you
+                                                  need help understanding how it works, check out
+                                                  this simple guide.</p>
+                                                </section>
+                                                <section css:display="block"
+                                                  css:oxy-pdf-tag-type="Sect">
+                                                  <ol class="- topic/ol task/steps ol steps"
+                                                  css:display="block" css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">From the Shopify Admin Page,
+                                                  go to Settings &gt; Notifications.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Locate the Email Templates
+                                                  section, then find the Order confirmation and
+                                                  Shipping confirmation email templates.</span>
+                                                  </li>
+                                                  </ol>
+                                                </section>
+                                            </div>
+                                        </article>
+                                    </article>
                                 </article>
                             </div>
                         </div>
@@ -4189,17 +4941,17 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title36" break-before="true"
+                                <article aria-labelledby="ariaid-title40" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e489" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e548" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title36"><css:string-set name="chaptertitle"
+                                        id="ariaid-title40"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="8"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -4209,6 +4961,415 @@
                                                 ><css:text>Chapter </css:text><css:counter
                                                 name="chapter" value="8"/><css:text>.
                                             </css:text></css:before>Transactions</h1>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title41"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_27" nd:nd-id="transactions" oid="transactions"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title41"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Transactions</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/author author" css:display="none"
+                                                >Radu</div>
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em"/>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title42"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_28" nd:nd-id="payment_methods"
+                                        oid="payment_methods" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title42"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Payment Methods</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/author author" css:display="none"
+                                                >Radu</div>
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <p class="- topic/p p" css:direction="ltr"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em" css:unicode-bidi="embed"
+                                                dir="ltr"
+                                                id="unique_28_Connect_42_docs-internal-guid-84c8e2bb-7fff-d061-42ae-dfb69de1a85f"
+                                                nd:nd-id="docs-internal-guid-84c8e2bb-7fff-d061-42ae-dfb69de1a85f"
+                                                >Shopify allows several different types of payment
+                                                methods through storefronts. Payment methods are
+                                                further customizable by storefront owners, as they
+                                                can choose which type of payments to accept and
+                                                decline, as well as methods based on if transactions
+                                                take place in real life, or over the online
+                                                storefront.These options include:</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                id="unique_28_Connect_42_ul_fn1_jbq_5jb"
+                                                nd:nd-id="ul_fn1_jbq_5jb">
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">Credit/Debit
+                                                  cards</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">Cash (For
+                                                  in-person transactions)</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">Manual card
+                                                  payments (customer enters in card details
+                                                  manually)</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">Gift Cards</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title43"
+                                        class="+ topic/topic pdf2-d/placeholder topic placeholder nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect" id="d7e587"
+                                        topicrefclass="+ map/topicref mapgroup-d/topichead ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title43"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Orders and Refunds</h2>
+                                        <article
+                                            xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                            aria-labelledby="ariaid-title44"
+                                            class="- topic/topic task/task topic task nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_29" nd:nd-id="searching_for_an_order"
+                                            oid="searching_for_an_order"
+                                            topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title44"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>Searching for an Order</h3>
+                                            <div class="- topic/prolog prolog"
+                                                css:background-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-style="none"
+                                                css:border-right-style="none"
+                                                css:border-top-style="none" css:color="transparent"
+                                                css:display="none" css:font-size="0" css:height="0"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                css:width="0">
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                            <div class="- topic/body task/taskbody body taskbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em"/>
+                                                <section
+                                                  class="- topic/section task/context section context"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"/>
+                                                  <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_29_Connect_42_ol_yzj_pbq_5jb"
+                                                  nd:nd-id="ol_yzj_pbq_5jb">
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">On the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Orders
+                                                  </strong>screen, tap the search icon.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">In the search
+                                                  field, enter in either the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">order
+                                                  ID, receipt number, </strong>or <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >customer name</strong>. Results will appear
+                                                  beneath the search bar.</p>
+                                                  </li>
+                                                  </ol>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Choose
+                                                  an order to open it up, or tap <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Cancel
+                                                  </strong>to return to the previous screen.</p>
+                                                </section>
+                                                <section css:display="block"
+                                                  css:oxy-pdf-tag-type="Sect">
+                                                  <div class="- topic/li task/step li step p"
+                                                  css:display="block">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"/>
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                  </div>
+                                                </section>
+                                            </div>
+                                        </article>
+                                        <article
+                                            xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                            aria-labelledby="ariaid-title45"
+                                            class="- topic/topic task/task topic task nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_30" nd:nd-id="refund_an_order"
+                                            oid="refund_an_order" topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title45"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>Refund an Order</h3>
+                                            <div class="- topic/prolog prolog"
+                                                css:background-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-style="none"
+                                                css:border-right-style="none"
+                                                css:border-top-style="none" css:color="transparent"
+                                                css:display="none" css:font-size="0" css:height="0"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                css:width="0">
+                                                <div class="- topic/author author"
+                                                  css:display="none">Radu</div>
+                                                <div class="- topic/copyright copyright"
+                                                  css:display="none">
+                                                  <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                  <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                                </div>
+                                            </div>
+                                            <div class="- topic/body task/taskbody body taskbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em"/>
+                                                <section
+                                                  class="- topic/section task/context section context"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"/>
+                                                  <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_30_Connect_42_ol_wtg_rbq_5jb"
+                                                  nd:nd-id="ol_wtg_rbq_5jb">
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">From the
+                                                  Shopify POS, tap <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Orders.</strong></p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">Choose the
+                                                  order of the item that needs to be refunded.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">Tap <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Refund
+                                                  or Exchange</strong> and then tap which item(s)
+                                                  which will be refunded, then use the + or -
+                                                  buttons to enter the quantity of the item that
+                                                  will be refunded.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">There are
+                                                  several optional choices that can be added based
+                                                  on the nature of the refund and the seller.</p>
+                                                  </li>
+                                                  </ol>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Once
+                                                  all constraints are satisfied, tap <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Refund</strong> then <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Done</strong>.</p>
+                                                </section>
+                                                <section css:display="block"
+                                                  css:oxy-pdf-tag-type="Sect">
+                                                  <div class="- topic/li task/step li step p"
+                                                  css:display="block">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"/>
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                  </div>
+                                                </section>
+                                            </div>
+                                        </article>
+                                    </article>
                                 </article>
                             </div>
                         </div>
@@ -4233,17 +5394,17 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title37" break-before="true"
+                                <article aria-labelledby="ariaid-title46" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e491" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e627" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title37"><css:string-set name="chaptertitle"
+                                        id="ariaid-title46"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="9"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -4253,6 +5414,273 @@
                                                 ><css:text>Chapter </css:text><css:counter
                                                 name="chapter" value="9"/><css:text>.
                                             </css:text></css:before>Analytics</h1>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title47"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_31" nd:nd-id="analytics" oid="analytics"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title47"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Analytics</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/author author" css:display="none"
+                                                >Radu</div>
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <p class="- topic/p p" css:direction="ltr"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em" css:unicode-bidi="embed"
+                                                dir="ltr"
+                                                id="unique_31_Connect_42_docs-internal-guid-a5a6e50d-7fff-7225-b4dc-76faaa470afc"
+                                                nd:nd-id="docs-internal-guid-a5a6e50d-7fff-7225-b4dc-76faaa470afc"
+                                                >In the Overview dashboard you can do the following
+                                                activities:</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                id="unique_31_Connect_42_ul_xq2_xbq_5jb"
+                                                nd:nd-id="ul_xq2_xbq_5jb">
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">check the value
+                                                  of your recent sales and compare them to a
+                                                  previous time period</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">compare how
+                                                  well your sales channels are performing</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">track your
+                                                  average order value</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">see where your
+                                                  visitors are coming from—by region or by social
+                                                  media source</p>
+                                                </li>
+                                                <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">monitor the
+                                                  trends over time</p>
+                                                </li>
+                                            </ul>
+                                            <p class="- topic/p p" css:direction="ltr"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em" css:unicode-bidi="embed"
+                                                dir="ltr">The dashboard shows the most valuable
+                                                metrics that give you insight into the performance
+                                                of your store and the behavior of your customers.
+                                                The metrics are shown in numeric format and also as
+                                                graphs where appropriate. For all the metrics, the
+                                                percentage change from the previous date range can
+                                                also be shown.</p>
+                                        </div>
+                                    </article>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title48"
+                                        class="- topic/topic task/task topic task nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_32" nd:nd-id="analytics___view_your_data"
+                                        oid="analytics___view_your_data"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title48"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Analytics - View your
+                                            Data</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/author author" css:display="none"
+                                                >Radu</div>
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body task/taskbody body taskbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <section
+                                                class="- topic/section task/context section context"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"/>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_32_Connect_42_ul_anq_gcq_5jb"
+                                                  nd:nd-id="ul_anq_gcq_5jb">
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">1.) From your
+                                                  Shopify admin, go to <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Analytics</strong> &gt; <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Dashboards</strong>. By default, the dashboard
+                                                  shows data for today compared to yesterday.</p>
+                                                  </li>
+                                                </ul>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  id="unique_32_Connect_42_ul_bnq_gcq_5jb"
+                                                  nd:nd-id="ul_bnq_gcq_5jb">
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">2.) If you want
+                                                  to see data for another date range, then click the
+                                                  date menu and select a different date range. You
+                                                  can select a preset range, such as <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Last
+                                                  30 days</strong>, or you can set any custom range
+                                                  by clicking dates on the calendar.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">3.) If you want
+                                                  to show comparisons with the previous period or to
+                                                  the same date range from the previous year, then
+                                                  check <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Compare to previous dates</strong> and select a
+                                                  comparison value.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:direction="ltr"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  css:unicode-bidi="embed" dir="ltr">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  css:unicode-bidi="embed" dir="ltr">4.) Click
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Apply</strong>.</p>
+                                                  </li>
+                                                </ul>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">5.)
+                                                  Optional: If the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">View
+                                                  report</strong> link is shown, then click it to
+                                                  see more details about the metric. Not all metrics
+                                                  have a report, and you need to be on a plan that
+                                                  provides the detailed Shopify</p>
+                                            </section>
+                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
+                                                <div class="- topic/li task/step li step p"
+                                                  css:display="block">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"/>
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </article>
                                 </article>
                             </div>
                         </div>
@@ -4277,17 +5705,17 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title38" break-before="true"
+                                <article aria-labelledby="ariaid-title49" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e494" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e668" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title38"><css:string-set name="chaptertitle"
+                                        id="ariaid-title49"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="10"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -4297,6 +5725,172 @@
                                                 ><css:text>Chapter </css:text><css:counter
                                                 name="chapter" value="10"/><css:text>.
                                             </css:text></css:before>Troubleshooting</h1>
+                                    <article
+                                        xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
+                                        aria-labelledby="ariaid-title50"
+                                        class="- topic/topic reference/reference topic reference nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_33" nd:nd-id="troubleshooting"
+                                        oid="troubleshooting" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title50"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Troubleshooting</h2>
+                                        <div class="- topic/prolog prolog"
+                                            css:background-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-style="none"
+                                            css:border-right-style="none"
+                                            css:border-top-style="none" css:color="transparent"
+                                            css:display="none" css:font-size="0" css:height="0"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0" css:width="0">
+                                            <div class="- topic/author author" css:display="none"
+                                                >Radu</div>
+                                            <div class="- topic/copyright copyright"
+                                                css:display="none">
+                                                <div class="- topic/copyryear copyryear"
+                                                  css:display="none" year="2008"/>
+                                                <div class="- topic/copyrholder copyrholder"
+                                                  css:display="none">Radu</div>
+                                            </div>
+                                        </div>
+                                        <div class="- topic/body reference/refbody body refbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <div
+                                                class="- topic/bodydiv reference/refbodydiv bodydiv refbodydiv"
+                                                css:display="block">
+                                                <section class="- topic/section section"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>What is Shopify’s IP
+                                                  address?</h3>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">When
+                                                  using a third-party or external domain for your
+                                                  shop, usually you must state shopify’s IP address
+                                                  for the third-party provider. If so, it is
+                                                  23.227.38.65. This IP will need to be set as your
+                                                  A record on the other site.</p>
+                                                </section>
+                                                <section class="- topic/section section"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid">
+                                                  <css:bookmark-label>
+                                                  <css:content source="text"/>
+                                                  </css:bookmark-label>
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline">How do I change my
+                                                  myshopify.com domain?</strong>
+                                                  </h3>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">You
+                                                  cannot because your myshopify.com domain is a URL
+                                                  that is a unique identifier for your store,
+                                                  therefore it can’t be changed or removed. However,
+                                                  it can be replaced with a custom domain name.</p>
+                                                </section>
+                                                <section class="- topic/section section"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid">
+                                                  <css:bookmark-label>
+                                                  <css:content source="text"/>
+                                                  </css:bookmark-label>
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline">Why isn’t my Shopify POS
+                                                  synced with my Shopify Admin?</strong>
+                                                  </h3>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  Shopify POS app usually updates automatically with
+                                                  any changes made on the admin page, but if you
+                                                  find the desktop and mobile apps aren’t synced
+                                                  with the same information, you can force the app
+                                                  to resync with the Shopify admin.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> From
+                                                  the Shopify POS app, press your Ipad’s home button
+                                                  to send the app into the background. </p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> From
+                                                  the Ipad’s home screen, find and tap the Shopify
+                                                  POS app. </p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> Check
+                                                  to see if the app has been updated with the new
+                                                  changes. </p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> If
+                                                  the app still hasn’t updated, force close the app,
+                                                  then reopen it. </p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">
+                                                  Double tap the home button to bring up all of the
+                                                  running apps on the Ipad. </p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">
+                                                  Located the shopify app and swipe the window up
+                                                  until the window has left the screen. </p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> Tap
+                                                  the home button again, then located the Shopify
+                                                  POS app and tap it open. </p>
+                                                </section>
+                                                <section class="- topic/section section"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"/>
+                                                </section>
+                                            </div>
+                                        </div>
+                                    </article>
                                 </article>
                             </div>
                         </div>
@@ -4321,17 +5915,17 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title39" break-before="true"
+                                <article aria-labelledby="ariaid-title51" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e496" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e689" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title39"><css:string-set name="chaptertitle"
+                                        id="ariaid-title51"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="11"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -4343,10 +5937,10 @@
                                             </css:text></css:before>Glossary</h1>
                                     <article
                                         xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations"
-                                        aria-labelledby="ariaid-title40"
+                                        aria-labelledby="ariaid-title52"
                                         class="- topic/topic reference/reference topic reference nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_24" nd:nd-id="reference_nfc_2kj_sjb"
+                                        id="unique_34" nd:nd-id="reference_nfc_2kj_sjb"
                                         oid="reference_nfc_2kj_sjb" topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -4354,7 +5948,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title40"><css:bookmark-label><css:content
+                                            id="ariaid-title52"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Glossary</h2>
                                         <div class="- topic/prolog prolog"
@@ -4392,7 +5986,7 @@
                                                 <section class="- topic/section section"
                                                   css:display="block" css:margin-bottom="1em"
                                                   css:margin-top="1em" css:oxy-pdf-tag-type="Sect"
-                                                  id="unique_24_Connect_42_section_lnh_nkj_sjb"
+                                                  id="unique_34_Connect_42_section_lnh_nkj_sjb"
                                                   nd:nd-id="section_lnh_nkj_sjb">
                                                   <h3 class="- topic/title title sectiontitle"
                                                   css:bookmark-level="3" css:display="block"
@@ -4417,7 +6011,7 @@
                                                 <section class="- topic/section section"
                                                   css:display="block" css:margin-bottom="1em"
                                                   css:margin-top="1em" css:oxy-pdf-tag-type="Sect"
-                                                  id="unique_24_Connect_42_section_tkz_clj_sjb"
+                                                  id="unique_34_Connect_42_section_tkz_clj_sjb"
                                                   nd:nd-id="section_tkz_clj_sjb">
                                                   <h3 class="- topic/title title sectiontitle"
                                                   css:bookmark-level="3" css:display="block"
@@ -4433,7 +6027,7 @@
                                                   css:margin-left="0" css:margin-right="0"
                                                   css:margin-top="0.5em" css:unicode-bidi="embed"
                                                   dir="ltr"
-                                                  id="unique_24_Connect_42_docs-internal-guid-821f2c6d-7fff-4804-5f4f-248f175df0de"
+                                                  id="unique_34_Connect_42_docs-internal-guid-821f2c6d-7fff-4804-5f4f-248f175df0de"
                                                   nd:nd-id="docs-internal-guid-821f2c6d-7fff-4804-5f4f-248f175df0de"
                                                   >A report that provides an overview of the
                                                   different kinds of sources that send people to
@@ -4441,7 +6035,7 @@
                                                   <ul class="- topic/ul ul" css:display="block"
                                                   css:list-style-type="disc"
                                                   css:margin-bottom="1.33em" css:margin-top="1.33em"
-                                                  id="unique_24_Connect_42_ul_p3s_n2v_rjb"
+                                                  id="unique_34_Connect_42_ul_p3s_n2v_rjb"
                                                   nd:nd-id="ul_p3s_n2v_rjb">
                                                   <li class="- topic/li li" css:direction="ltr"
                                                   css:display="list-item" css:margin-left="2em"

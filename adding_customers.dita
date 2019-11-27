@@ -5,7 +5,10 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>
+                <image placement="break" href="img/Customers%20-%20Add%20customers.PNG"
+                    align="center" id="image_yv2_dzj_vjb"/>
+            </p>
         </context>
         <steps>
             <step>

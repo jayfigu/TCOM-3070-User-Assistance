@@ -9,7 +9,15 @@
                 <cmd>Navigate to the domain purchasing page, on shopify.</cmd>
             </step>
             <step>
-                <cmd>To see if the domain name you want is available click Domain Search  and type the domain in the text box. Click Generate domains to search.</cmd>
+                <cmd>To see if the domain name you want is available click Domain Search and type
+                    the domain in the text box. Click Generate domains to search.</cmd>
+                <info>
+                    <p>
+                        <image placement="break"
+                            href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
+                            id="image_tmv_yyj_vjb"/>
+                    </p>
+                </info>
             </step>
             
             <step>
