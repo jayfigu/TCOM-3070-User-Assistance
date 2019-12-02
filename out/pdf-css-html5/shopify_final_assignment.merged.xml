@@ -436,7 +436,13 @@
                 <cmd class="- topic/ph task/cmd ">Navigate to the domain purchasing page, on shopify.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">To see if the domain name you want is available click Domain Search  and type the domain in the text box. Click Generate domains to search.</cmd>
+                <cmd class="- topic/ph task/cmd ">To see if the domain name you want is available click Domain Search and type
+                    the domain in the text box. Click Generate domains to search.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">
+                        <image align="center" class="- topic/image " href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG" id="unique_9_Connect_42_image_tmv_yyj_vjb" nd:nd-id="image_tmv_yyj_vjb" placement="break"/>
+                    </p>
+                </info>
             </step>
             
             <step class="- topic/li task/step ">
@@ -586,7 +592,9 @@
         </copyright></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            <p class="- topic/p "/>
+            <p class="- topic/p ">
+                <image align="center" class="- topic/image " href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Customers%20-%20Add%20customers.PNG" id="unique_18_Connect_42_image_yv2_dzj_vjb" nd:nd-id="image_yv2_dzj_vjb" placement="break"/>
+            </p>
         </context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
@@ -761,16 +769,22 @@
             
         </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">New orders will appear in the orders page when a customer makes a purchase from one of your online stores or sales channels. Orders are categorized into 3 different states in the processing flow:
-            <ul class="- topic/ul ">
-                <li class="- topic/li ">Order has been placed (Capturing payments): This occurs when customers use a credit/debit card to purchase and order. During this time, the bank is processing the purchase and determining whether the funds can be spent or not.</li>
-                <li class="- topic/li ">Order has been paid (Fulfilling order): At this point, it’s up to you to ship their order, hence why this process is referred to as order fulfillment.</li>
-                <li class="- topic/li ">Order has been fulfilled and paid (Archive the order): The order has been both paid for and shipped. The customer has received their order, so there’s no need to process the order further.</li>
+        <p class="- topic/p ">New orders will appear in the orders page when a customer makes a purchase from one of
+            your online stores or sales channels. Orders are categorized into 3 different states in
+            the processing flow: <ul class="- topic/ul ">
+                <li class="- topic/li ">Order has been placed (Capturing payments): This occurs when customers use a
+                    credit/debit card to purchase and order. During this time, the bank is
+                    processing the purchase and determining whether the funds can be spent or
+                    not.</li>
+                <li class="- topic/li ">Order has been paid (Fulfilling order): At this point, it’s up to you to ship
+                    their order, hence why this process is referred to as order fulfillment.</li>
+                <li class="- topic/li ">Order has been fulfilled and paid (Archive the order): The order has been both
+                    paid for and shipped. The customer has received their order, so there’s no need
+                    to process the order further.</li>
             </ul>
-            
-            
-        </p>
-    </conbody>
+            <image align="center" class="- topic/image " href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Search%20for%20Order.png" id="unique_24_Connect_42_image_f4q_lzj_vjb" nd:nd-id="image_f4q_lzj_vjb" placement="break"/></p>
+        
+      </conbody>
 </concept><topic class="+ topic/topic pdf2-d/placeholder " id="d7e507" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Order Process Page</title><concept class="- topic/topic concept/concept " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="status_page_overview" oid="status_page_overview">
     <title class="- topic/title ">Status Page Overview</title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Radu</author><copyright class="- topic/copyright ">
@@ -939,6 +953,7 @@
             
         </copyright></prolog>
     <conbody class="- topic/body  concept/conbody ">
+        <image align="center" class="- topic/image " href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Analytics%20-%20Overview.PNG" id="unique_31_Connect_42_image_smv_d1k_vjb" nd:nd-id="image_smv_d1k_vjb" placement="break" width="500"/>
         <p class="- topic/p " dir="ltr" id="unique_31_Connect_42_docs-internal-guid-a5a6e50d-7fff-7225-b4dc-76faaa470afc" nd:nd-id="docs-internal-guid-a5a6e50d-7fff-7225-b4dc-76faaa470afc">In the Overview
             dashboard you can do the following activities:</p>
         <ul class="- topic/ul " id="unique_31_Connect_42_ul_xq2_xbq_5jb" nd:nd-id="ul_xq2_xbq_5jb">

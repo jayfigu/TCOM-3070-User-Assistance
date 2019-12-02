@@ -3379,22 +3379,62 @@
                                                   <ol class="- topic/ol task/steps ol steps"
                                                   css:display="block" css:list-style-type="decimal"
                                                   css:margin-bottom="1.33em" css:margin-top="1.33em">
-                                                  <li class="- topic/li task/step li step"
-                                                  css:display="list-item" css:margin-left="2em">
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
                                                   <span class="- topic/ph task/cmd ph cmd"
                                                   css:display="inline">Navigate to the domain
                                                   purchasing page, on shopify.</span>
                                                   </li>
-                                                  <li class="- topic/li task/step li step"
-                                                  css:display="list-item" css:margin-left="2em">
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
                                                   <span class="- topic/ph task/cmd ph cmd"
                                                   css:display="inline">To see if the domain name you
                                                   want is available click Domain Search and type the
                                                   domain in the text box. Click Generate domains to
                                                   search.</span>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block">
+                                                  <div class="- topic/p p" css:display="block">
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                  <div class="imagecenter" css:display="block"
+                                                  css:text-align="center">
+                                                  <img align="center" chfox:inch="true"
+                                                  class="- topic/image image imagecenter"
+                                                  css:display="inline" css:image-resolution="120dpi"
+                                                  css:max-width="100%"
+                                                  href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG"
+                                                  id="unique_9_Connect_42_image_tmv_yyj_vjb"
+                                                  nd:nd-id="image_tmv_yyj_vjb" placement="break"
+                                                  src="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG">
+                                                  <css:content-on-element>
+                                                  <css:uri extracted-image-height="462"
+                                                  extracted-image-width="902"
+                                                  uri="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG"
+                                                  />
+                                                  </css:content-on-element>
+                                                  </img>
+                                                  </div>
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                  </div>
+                                                  </div>
                                                   </li>
-                                                  <li class="- topic/li task/step li step"
-                                                  css:display="list-item" css:margin-left="2em">
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
                                                   <span class="- topic/ph task/cmd ph cmd"
                                                   css:display="inline">If the domain name is
                                                   available, or an alternative is, choose which one
@@ -3402,8 +3442,10 @@
                                                   as well, since different domains have different
                                                   prices.</span>
                                                   </li>
-                                                  <li class="- topic/li task/step li step"
-                                                  css:display="list-item" css:margin-left="2em">
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
                                                   <span class="- topic/ph task/cmd ph cmd"
                                                   css:display="inline">Follow the prompts from there
                                                   and if fully seen through, you’ll have a new
@@ -4061,9 +4103,36 @@
                                                   class="- topic/section task/context section context"
                                                   css:display="block" css:margin-bottom="1em"
                                                   css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                  <p class="- topic/p p" css:display="block"
-                                                  css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em"/>
+                                                  <div class="- topic/p p" css:display="block">
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                  <div class="imagecenter" css:display="block"
+                                                  css:text-align="center">
+                                                  <img align="center" chfox:inch="true"
+                                                  class="- topic/image image imagecenter"
+                                                  css:display="inline" css:image-resolution="120dpi"
+                                                  css:max-width="100%"
+                                                  href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Customers%20-%20Add%20customers.PNG"
+                                                  id="unique_18_Connect_42_image_yv2_dzj_vjb"
+                                                  nd:nd-id="image_yv2_dzj_vjb" placement="break"
+                                                  src="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Customers%20-%20Add%20customers.PNG">
+                                                  <css:content-on-element>
+                                                  <css:uri extracted-image-height="745"
+                                                  extracted-image-width="1024"
+                                                  uri="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Customers%20-%20Add%20customers.PNG"
+                                                  />
+                                                  </css:content-on-element>
+                                                  </img>
+                                                  </div>
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                  </div>
                                                 </section>
                                                 <section css:display="block"
                                                   css:oxy-pdf-tag-type="Sect">
@@ -4731,7 +4800,27 @@
                                                   their order, so there’s no need to process the
                                                   order further.</li>
                                                 </ul>
-                                            </div>
+                                                <br css:display="block"><css:after
+                                                  css:display="inline"
+                                                  ><css:text/></css:after></br><div
+                                                  class="imagecenter" css:display="block"
+                                                  css:text-align="center"><img align="center"
+                                                  chfox:inch="true"
+                                                  class="- topic/image image imagecenter"
+                                                  css:display="inline" css:image-resolution="120dpi"
+                                                  css:max-width="100%"
+                                                  href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Search%20for%20Order.png"
+                                                  id="unique_24_Connect_42_image_f4q_lzj_vjb"
+                                                  nd:nd-id="image_f4q_lzj_vjb" placement="break"
+                                                  src="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Search%20for%20Order.png"
+                                                  ><css:content-on-element><css:uri
+                                                  extracted-image-height="786"
+                                                  extracted-image-width="1024"
+                                                  uri="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Search%20for%20Order.png"
+                                                  /></css:content-on-element></img></div><br
+                                                  css:display="block"><css:after
+                                                  css:display="inline"
+                                                ><css:text/></css:after></br></div>
                                         </div>
                                     </article>
                                     <article aria-labelledby="ariaid-title37"
@@ -5459,6 +5548,35 @@
                                                 css:display="block" css:margin-bottom="0.5em"
                                                 css:margin-left="0" css:margin-right="0"
                                                 css:margin-top="0.5em"/>
+                                            <br css:display="block">
+                                                <css:after css:display="inline">
+                                                  <css:text/>
+                                                </css:after>
+                                            </br>
+                                            <div class="imagecenter" css:display="block"
+                                                css:text-align="center">
+                                                <img align="center" chfox:inch="true"
+                                                  class="- topic/image image imagecenter"
+                                                  css:display="inline" css:image-resolution="120dpi"
+                                                  css:max-width="100%" css:width="500px"
+                                                  href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Analytics%20-%20Overview.PNG"
+                                                  id="unique_31_Connect_42_image_smv_d1k_vjb"
+                                                  nd:nd-id="image_smv_d1k_vjb" placement="break"
+                                                  src="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Analytics%20-%20Overview.PNG"
+                                                  width="500">
+                                                  <css:content-on-element>
+                                                  <css:uri extracted-image-height="454"
+                                                  extracted-image-width="1024"
+                                                  uri="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Analytics%20-%20Overview.PNG"
+                                                  />
+                                                  </css:content-on-element>
+                                                </img>
+                                            </div>
+                                            <br css:display="block">
+                                                <css:after css:display="inline">
+                                                  <css:text/>
+                                                </css:after>
+                                            </br>
                                             <p class="- topic/p p" css:direction="ltr"
                                                 css:display="block" css:margin-bottom="0.5em"
                                                 css:margin-left="0" css:margin-right="0"
