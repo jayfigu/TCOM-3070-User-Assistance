@@ -2,8 +2,18 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="add_existing_domain">
     <title>Add Existing Domain</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Shopify also allows you to add existing domains from third party providers. If you'd
+        rather do that than purchasing one of Shopify's, here are the steps in doing so.</shortdesc>
     <taskbody>
-       
+            <steps>
+                <stepsection><b>Adding an Existing Third-Party Domain</b></stepsection>
+                <step><cmd>From the Shopify Admin page, go to Online Store > Domain</cmd></step>
+                <step>
+                <cmd>Click Connect Existing Domain</cmd>
+            </step>
+            <step>
+                <cmd>Enter the third party domain you own, then click <b>Next.</b></cmd>
+            </step>
+            </steps>       
     </taskbody>
 </task>

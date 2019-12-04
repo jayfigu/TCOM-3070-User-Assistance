@@ -2,10 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_store_policies">
     <title>Adding Store Policies</title>
-    <shortdesc>Policies are important so that your customers know how you handle refunds, privacy, and
-        terms of service for transactions. Store policies are added on a different webpage, but
-        will be displayed as links at the bottom of the customer checkout page for your store.
-        This requires 2 separate browser tabs to be open.</shortdesc>
+    <shortdesc>Policies are important so that your customers know how you handle refunds, privacy,
+        and terms of service for transactions. Store policies are added on a different webpage, but
+        will be displayed as links at the bottom of the customer checkout page for your store. This
+        requires 2 separate browser tabs to be open.<image
+            href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" id="image_kfb_w5r_xjb"
+        /></shortdesc>
     <taskbody>
         <steps>
             <step>
