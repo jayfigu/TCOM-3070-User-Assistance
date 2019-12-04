@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="remove_a_shopify_managed_domain">
+    <title>Remove a Shopify managed domain</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>To remove a shopify domain, you must<xref
+                href="https://help.shopify.com/en/questions#/questions" format="html"
+                scope="external"><b><u>contact support</u></b></xref> to do so.</p>
+    </conbody>
+</concept>

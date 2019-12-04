@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setting_up_the_shopify_pos_app">
+    <title>Setting up the Shopify POS app</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <note>
+                <b>Before you start adding products and setting up your payments, there are a few administrative tasks that you should do:</b>
+                <ul>
+                    <li>If you want to sell in person, then check with your local laws to see if the Shopify POS system is compliant in your country.</li>
+                    <li>Complete the initial setup so that your store address, email address, and other store settings are up to date.</li>
+                    <li>Know where to manage your account and access your billing information.</li>
+                    <li>Add staff accounts so that each of your staff members has a personal login account and all sensitive account information remains secure.</li>
+                </ul>
+                
+                
+                
+                </note>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Configure your basic administrative settings</cmd>
+            </step>
+            <step>
+                <cmd>Download the Shopify App</cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>

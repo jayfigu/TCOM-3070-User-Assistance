@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_menu_and_links_to_store">
+    <title>Add a menu and links to your store</title>
+    <shortdesc>With how prevalent social media and the use of other sites are in today's day and age, you’ll likely want to link external sites and accounts to your shopify storefront.</shortdesc>
+    <taskbody>
+  
+        <steps>
+            <step>
+                <cmd>From the Shopify Admin page, go to Online Store > Navigation.</cmd>
+            </step>
+            <step>
+                <cmd>On the Navigation page, click the name of the menu you want to edit.</cmd>
+            </step>
+            <step>
+                <cmd>Click Add menu item.</cmd>
+            </step>
+            <step>
+                <cmd>Two input fields will appear. In the Name field, enter the name of the link you want to add. This is what will be displayed.</cmd>
+            </step>
+            <step>
+                <cmd>From the drop-down menu beside the link name, select the link type that best describes the link you’re inputting.</cmd>
+            </step>
+            <step>
+                <cmd>Click Save menu.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

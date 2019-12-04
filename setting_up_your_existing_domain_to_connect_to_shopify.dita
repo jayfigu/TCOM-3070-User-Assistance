@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setting_up_your_existing_domain_to_connect_to_shopify">
+    <title>Setting up your existing domain to connect to Shopify</title>
+    <shortdesc>Shopify gives you the option to add in your own domain, if it already exists.
+    </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Navigate to your domain provider and log into your account on that site.</cmd>
+            </step>
+            <step>
+                <cmd>Find your DNS Settings. These are generally located in the domain management area on the site, but this varies from provider to provider.</cmd>
+            </step>
+            <step>
+                <cmd>Once you find the DNS Settings, edit your A record to point to Shopify’s IP address 23.227.38.65 (Copy and paste this into the field).</cmd>
+            </step>
+            <step>
+                <cmd>Save the A record.</cmd>
+            </step>
+            <step>
+                <cmd>In the DNS settings, find the CNAME record</cmd>
+            </step>
+            <step>
+                <cmd>Change your www CNAME record to point to shops.myshopify.com (copy this as well).</cmd>
+            </step>
+            <step>
+                <cmd>Save the CNAME record.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

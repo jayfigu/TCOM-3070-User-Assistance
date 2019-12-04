@@ -4,47 +4,47 @@
     <title>Shopify Final Assignment</title>
     <topicmeta>
         
-        <author>Radu</author>
+        <author>Ryan Ewaskiew, Jason Figueroa, Carter Francis, Mailie Liu</author>
         
-        <copyright>
-            
-            <copyryear year="2008"/>
-            
-            <copyrholder>Radu</copyrholder>
-            
-        </copyright>
-        
+          
     </topicmeta>
     <topicref href="introduction.dita"/>
     <topicref href="getting_started.dita"/>
-    <topichead navtitle="Setting Up - Topic Head">
+    <topichead navtitle="Setting Up">
         <topichead navtitle="Creating a Store">
             <topicref href="creating_a_store.dita"/>
             <topicref href="setting_up_the_basics.dita"/>
             <topicref href="adding_store_policies.dita"/>
+            <topicref href="add_menu_and_links_to_store.dita"/>
             <topichead navtitle="Adding and Organizing Products">
                 <topicref href="adding_products.dita"/>
                 <topicref href="organizing_products.dita"/>
             </topichead>
-            <topicref href="customizing_theme.dita"/>
         </topichead>
-        <topichead navtitle="Completing your Profile"/>
+        <topicref href="customizing_a_theme.dita"/>
     </topichead>
     <topichead navtitle="Domains">
         <topichead navtitle="Adding a Domain">
+            <topicref href="what_is_a_domain.dita"/>
             <topicref href="domain_through_shopify.dita"/>
             <topicref href="add_existing_domain.dita"/>
+            <topicref href="setting_up_your_existing_domain_to_connect_to_shopify.dita"/>
             <topicref href="verify_shopify_connection.dita"/>
         </topichead>
         <topichead navtitle="Managing a Domain">
             <topicref href="set_your_primary_domain.dita"/>
             <topicref href="remove_a_third_party_domain.dita"/>
-            <topicref href="remove_shopify_domain.dita"/>
+            <topicref href="remove_a_shopify_managed_domain.dita"/>
         </topichead>
     </topichead>
     <topichead navtitle="Selling Products">
-        <topicref href="selling_in_person.dita"/>
-        <topicref href="selling_online.dita"/>
+        <topicref href="selling_in_person.dita">
+            <topicref href="setting_up_the_shopify_pos_app.dita"/>
+        </topicref>
+        <topicref href="selling_online.dita">
+            <topicref href="adding_an_online_sales_channel.dita"/>
+            <topicref href="remove_an_online_sales_channel.dita"/>
+        </topicref>
     </topichead>
     <topichead navtitle="Customers">
         <topichead navtitle="Managing Customers">

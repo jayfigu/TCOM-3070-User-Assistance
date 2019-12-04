@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_domain">
+    <title>What is a Domain</title>
+    <shortdesc>Now that you have your store setup, you will a need a way to show this store to your
+        customers. This is where having a domain comes in. </shortdesc>
+    <conbody>
+        <p>A domain is the website address that customers can visit to browse and purchase from your
+            store online. With Shopify you have a few options for domains depending on your
+            preferences and starting point. </p>
+        <p>You can have a domain through Shopify. An example of the URL for this is
+            examplestore.myshopify.com.</p>
+        <p>Alternatively, you can have a custom domain which you can either purchase a new URL or
+            have one transferred to Shopify. An example of a URL for this is examplestore.com.</p>
+    </conbody>
+</concept>

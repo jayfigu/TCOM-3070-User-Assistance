@@ -7,13 +7,15 @@
     <taskbody>
             <steps>
                 <stepsection><b>Adding an Existing Third-Party Domain</b></stepsection>
-                <step><cmd>From the Shopify Admin page, go to Online Store > Domain</cmd></step>
+                <step><cmd>From the Shopify Admin page, go to Online Store > Domains</cmd></step>
                 <step>
                 <cmd>Click Connect Existing Domain</cmd>
             </step>
             <step>
                 <cmd>Enter the third party domain you own, then click <b>Next.</b></cmd>
             </step>
-            </steps>       
+                
+            </steps>
+        
     </taskbody>
 </task>
