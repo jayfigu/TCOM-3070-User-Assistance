@@ -11,17 +11,14 @@
     <topicref href="introduction.dita"/>
     <topicref href="getting_started.dita"/>
     <topichead navtitle="Setting Up">
-        <topichead navtitle="Creating a Store">
-            <topicref href="creating_a_store.dita"/>
+        <topicref href="creating_a_store.dita">
             <topicref href="setting_up_the_basics.dita"/>
             <topicref href="adding_store_policies.dita"/>
             <topicref href="add_menu_and_links_to_store.dita"/>
-            <topichead navtitle="Adding and Organizing Products">
-                <topicref href="adding_products.dita"/>
-                <topicref href="organizing_products.dita"/>
-            </topichead>
-        </topichead>
-        <topicref href="customizing_a_theme.dita"/>
+            <topicref href="adding_products.dita"/>
+            <topicref href="organizing_products.dita"/>
+            <topicref href="customizing_a_theme.dita"/>
+        </topicref>
     </topichead>
     <topichead navtitle="Domains">
         <topichead navtitle="Adding a Domain">
@@ -47,32 +44,28 @@
         </topicref>
     </topichead>
     <topichead navtitle="Customers">
-        <topichead navtitle="Managing Customers">
-            <topicref href="managing_customers.dita"/>
+        <topicref href="managing_customers.dita">
             <topicref href="adding_customers.dita"/>
             <topicref href="emailing_customers.dita"/>
-        </topichead>
-        <topichead navtitle="Editing Customer Information">
-            <topicref href="edit_customers.dita"/>
+        </topicref>
+        <topicref href="edit_customers.dita">
             <topicref href="edit_customers_address.dita"/>
             <topicref href="edit_customer_s_tag.dita"/>
             <topicref href="edit_customers_name_or_email.dita"/>
-        </topichead>
+        </topicref>
+        <topicref href="edit_a_customers_name_or_email.dita"/>
     </topichead>
     <topichead navtitle="Orders">
-        <topicref href="orders_process.dita"/>
-        <topichead navtitle="Order Process Page">
+        <topicref href="orders_process.dita">
             <topicref href="status_page_overview.dita"/>
             <topicref href="customizing_your_email_templates.dita"/>
-        </topichead>
+        </topicref>
     </topichead>
     <topichead navtitle="Transactions">
         <topicref href="transactions.dita"/>
         <topicref href="payment_methods.dita"/>
-        <topichead navtitle="Orders and Refunds">
-            <topicref href="searching_for_an_order.dita"/>
-            <topicref href="refund_an_order.dita"/>
-        </topichead>
+        <topicref href="searching_for_an_order.dita"/>
+        <topicref href="refund_an_order.dita"/>
     </topichead>
     <topichead navtitle="Analytics">
         <topicref href="analytics.dita"/>

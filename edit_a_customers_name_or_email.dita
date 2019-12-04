@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="edit_a_customers_name_or_email">
+    <title>Edit a customer's Name or Email</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From your Shopify admin, go to the Customers sections</cmd>
+            </step>
+            <step>
+                <cmd>Click the name of the customer profile you want to edit.</cmd>
+            </step>
+            <step>
+                <cmd>In the Customer overview section, click Edit.</cmd>
+            </step>
+            <step>
+                <cmd>In the Edit customer dialog, you can change:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>the customer's first name</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>the customer's last name</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>the customer's email address and phone number</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>the customer's phone number</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>if the customer accepts marketing (agrees to receive marketing emails)</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
