@@ -9,8 +9,7 @@
           
     </topicmeta>
     <topicref href="introduction.dita"/>
-    <topicref href="getting_started.dita"/>
-    <topichead navtitle="Setting Up">
+    <topicref href="getting_started.dita">
         <topicref href="creating_a_store.dita">
             <topicref href="setting_up_the_basics.dita"/>
             <topicref href="adding_store_policies.dita"/>
@@ -19,21 +18,16 @@
             <topicref href="organizing_products.dita"/>
             <topicref href="customizing_a_theme.dita"/>
         </topicref>
-    </topichead>
-    <topichead navtitle="Domains">
-        <topichead navtitle="Adding a Domain">
-            <topicref href="what_is_a_domain.dita"/>
+        <topicref href="domains.dita">
             <topicref href="domain_through_shopify.dita"/>
             <topicref href="add_existing_domain.dita"/>
             <topicref href="setting_up_your_existing_domain_to_connect_to_shopify.dita"/>
             <topicref href="verify_shopify_connection.dita"/>
-        </topichead>
-        <topichead navtitle="Managing a Domain">
             <topicref href="set_your_primary_domain.dita"/>
             <topicref href="remove_a_third_party_domain.dita"/>
             <topicref href="remove_a_shopify_managed_domain.dita"/>
-        </topichead>
-    </topichead>
+        </topicref>
+    </topicref>
     <topichead navtitle="Selling Products">
         <topicref href="selling_in_person.dita">
             <topicref href="setting_up_the_shopify_pos_app.dita"/>
