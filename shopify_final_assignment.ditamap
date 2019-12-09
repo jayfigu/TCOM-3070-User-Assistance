@@ -8,65 +8,65 @@
         
           
     </topicmeta>
-    <topicref href="introduction.dita"/>
-    <topicref href="pricing_plans.dita"/>
-    <topicref href="getting_started.dita">
-        <topicref href="creating_a_store.dita">
-            <topicref href="setting_up_the_basics.dita"/>
-            <topicref href="adding_store_policies.dita"/>
-            <topicref href="add_menu_and_links_to_store.dita"/>
-            <topicref href="adding_products.dita"/>
-            <topicref href="organizing_products.dita"/>
-            <topicref href="customizing_a_theme.dita"/>
+    <topicref href="Concepts/introduction.dita"/>
+    <topicref href="Concepts/pricing_plans.dita"/>
+    <topicref href="Concepts/getting_started.dita">
+        <topicref href="Concepts/creating_a_store.dita">
+            <topicref href="Tasks/setting_up_the_basics.dita"/>
+            <topicref href="Tasks/adding_store_policies.dita"/>
+            <topicref href="Tasks/add_menu_and_links_to_store.dita"/>
+            <topicref href="Tasks/adding_products.dita"/>
+            <topicref href="Tasks/organizing_products.dita"/>
+            <topicref href="Concepts/customizing_a_theme.dita"/>
         </topicref>
-        <topicref href="domains.dita">
-            <topicref href="domain_through_shopify.dita"/>
-            <topicref href="add_existing_domain.dita"/>
-            <topicref href="setting_up_your_existing_domain_to_connect_to_shopify.dita"/>
-            <topicref href="verify_shopify_connection.dita"/>
-            <topicref href="set_your_primary_domain.dita"/>
-            <topicref href="remove_a_third_party_domain.dita"/>
-            <topicref href="remove_a_shopify_managed_domain.dita"/>
+        <topicref href="Concepts/domains.dita">
+            <topicref href="Tasks/domain_through_shopify.dita"/>
+            <topicref href="Tasks/add_existing_domain.dita"/>
+            <topicref href="Tasks/setting_up_your_existing_domain_to_connect_to_shopify.dita"/>
+            <topicref href="Tasks/verify_shopify_connection.dita"/>
+            <topicref href="Tasks/set_your_primary_domain.dita"/>
+            <topicref href="Tasks/remove_a_third_party_domain.dita"/>
+            <topicref href="Concepts/remove_a_shopify_managed_domain.dita"/>
         </topicref>
-        <topicref href="selling_products.dita">
-            <topicref href="selling_in_person.dita">
-                <topicref href="setting_up_the_shopify_pos_app.dita"/>
+        <topicref href="Concepts/selling_products.dita">
+            <topicref href="Concepts/selling_in_person.dita">
+                <topicref href="Tasks/setting_up_the_shopify_pos_app.dita"/>
             </topicref>
-            <topicref href="selling_online.dita">
-                <topicref href="adding_an_online_sales_channel.dita"/>
-                <topicref href="remove_an_online_sales_channel.dita"/>
-            </topicref>
-        </topicref>
-        <topicref href="customers.dita">
-            <topicref href="managing_customers.dita">
-                <topicref href="adding_customers.dita"/>
-                <topicref href="emailing_customers.dita"/>
-            </topicref>
-            <topicref href="edit_customers.dita">
-                <topicref href="edit_customers_name_or_email.dita"/>
-                <topicref href="edit_customers_address.dita"/>
-                <topicref href="edit_customer_s_tag.dita"/>
-                <topicref href="customer_s_note.dita"/>
+            <topicref href="Concepts/selling_online.dita">
+                <topicref href="Tasks/adding_an_online_sales_channel.dita"/>
+                <topicref href="Tasks/remove_an_online_sales_channel.dita"/>
             </topicref>
         </topicref>
-        <topicref href="orders_process.dita">
-            <topicref href="status_page_overview.dita"/>
-            <topicref href="customizing_your_email_templates.dita"/>
+        <topicref href="Concepts/customers.dita">
+            <topicref href="Concepts/managing_customers.dita">
+                <topicref href="Tasks/adding_customers.dita"/>
+                <topicref href="Tasks/emailing_customers.dita"/>
+            </topicref>
+            <topicref href="Concepts/edit_customers.dita">
+                <topicref href="Tasks/edit_customers_name_or_email.dita"/>
+                <topicref href="Tasks/edit_customers_address.dita"/>
+                <topicref href="Tasks/edit_customer_s_tag.dita"/>
+                <topicref href="Tasks/customer_s_note.dita"/>
+            </topicref>
         </topicref>
-        <topicref href="analytics.dita">
-            <topicref href="analytics_dashboard_overview.dita"/>
-            <topicref href="analytics___view_your_data.dita"/>
+        <topicref href="Concepts/orders_process.dita">
+            <topicref href="Concepts/status_page_overview.dita"/>
+            <topicref href="Tasks/customizing_your_email_templates.dita"/>
         </topicref>
-    </topicref>
-    <topicref href="transactions.dita">
-        <topicref href="payment_methods.dita"/>
-        <topicref href="searching_for_an_order.dita"/>
-        <topicref href="refund_an_order.dita"/>
+        <topicref href="Concepts/analytics.dita">
+            <topicref href="Concepts/analytics_dashboard_overview.dita"/>
+            <topicref href="Tasks/analytics___view_your_data.dita"/>
+        </topicref>
+        <topicref href="Concepts/transactions.dita">
+            <topicref href="Concepts/payment_methods.dita"/>
+            <topicref href="Tasks/searching_for_an_order.dita"/>
+            <topicref href="Tasks/refund_an_order.dita"/>
+        </topicref>
     </topicref>
     <topichead navtitle="Troubleshooting">
-        <topicref href="troubleshooting.dita"/>
+        <topicref href="Reference/troubleshooting.dita"/>
     </topichead>
     <topichead navtitle="Glossary">
-        <topicref href="Glossary.dita"/>
+        <topicref href="Reference/Glossary.dita"/>
     </topichead>
 </map>

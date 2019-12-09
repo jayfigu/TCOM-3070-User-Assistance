@@ -7,7 +7,7 @@
         <steps>
             <step>
                 <cmd><ph
-                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                    conref="../From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
                 />, <i>click</i> Verify connection to verify that your
                     domain has been connected to your store.</cmd>
             </step>

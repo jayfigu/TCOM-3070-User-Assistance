@@ -10,12 +10,12 @@
                 <stepsection><b>Adding an Existing Third-Party Domain</b></stepsection>
                 <step>
                 <cmd><ph
-                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                        conref="../From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
                     />, go to Online Store > Domains </cmd>
                 <info>
                     <p>
                         <image placement="break"
-                            href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
+                            href="../img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
                             id="image_tmv_yyj_vjb" scalefit="yes"/>
                     </p>
                 </info>

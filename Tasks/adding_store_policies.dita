@@ -6,13 +6,13 @@
         and terms of service for transactions. Store policies are added on a different webpage but
         will be displayed as links at the bottom of the customer checkout page for your store. This
         requires two separate browser tabs to be open.<image
-            href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" id="image_kfb_w5r_xjb"
+            href="../img/Add%20Domain%20-%20Add%20existing%20domain.PNG" id="image_kfb_w5r_xjb"
         /></shortdesc>
     <taskbody>
         <steps>
             <step>
                 <cmd><ph
-                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"/>
+                        conref="../From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"/>
                     <i>click</i> on Pages </cmd>
             </step>
             <step>

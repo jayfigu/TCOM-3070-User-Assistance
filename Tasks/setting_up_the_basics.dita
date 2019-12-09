@@ -8,7 +8,7 @@
         <steps>
             <step>
                 <cmd><ph
-                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                        conref="../From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
                     />, go to <b>Settings</b>.</cmd>
             </step>
             

@@ -2,9 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="analytics">
     <title>Analytics</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can use Shopify's analytics and reports to learn about your sales and customers in great detail. The types of analytics and reports that you can view depend on your Shopify Plan.
+        You can also set up third-party analytics services, such as Google Analytics, to gain further insights and improve your business.
+    </shortdesc>
     <conbody>
-        <image placement="break" href="img/Analytics%20-%20Overview.PNG" width="500" align="center"
+        <image placement="break" href="../img/Analytics%20-%20Overview.PNG" width="500" align="center"
             id="image_smv_d1k_vjb"/>
         <p dir="ltr" id="docs-internal-guid-a5a6e50d-7fff-7225-b4dc-76faaa470afc">In the Overview
             dashboard, you can do the following activities:</p>

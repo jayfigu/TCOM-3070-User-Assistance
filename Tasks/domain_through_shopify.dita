@@ -13,7 +13,7 @@
                     type the domain in the text box. <i>Click</i> Generate domains to search.</cmd>
                 <info>
                     <p>
-                        <image placement="break" href="img/Domain%20buy.png" align="center"
+                        <image placement="break" href="../img/Domain%20buy.png" align="center"
                             id="image_qgt_g3p_zjb" scalefit="yes"/>
                     </p>
                 </info>
@@ -24,7 +24,7 @@
             </step>
             <step>
                 <cmd>Follow the prompts from there, and if fully seen through, you’ll have a new domain for your Shopify shop!<image placement="break"
-                        href="img/Domain%20buying%20options.png" align="center"
+                        href="../img/Domain%20buying%20options.png" align="center"
                         id="image_kpb_k3p_zjb" scalefit="yes"/></cmd>
             </step>
         </steps>

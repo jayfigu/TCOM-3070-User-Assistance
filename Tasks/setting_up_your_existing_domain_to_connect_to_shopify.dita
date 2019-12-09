@@ -9,7 +9,7 @@
                 <cmd>Navigate to your domain provider and log into your account on that site.</cmd>
                 <info>
                     <image placement="break"
-                        href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
+                        href="../img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
                         id="image_rwl_nhp_zjb"/>
                 </info>
             </step>

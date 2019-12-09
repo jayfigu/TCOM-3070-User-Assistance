@@ -10,7 +10,7 @@
         <steps>
             <step>
                 <cmd><ph
-                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"/>, click the Customers button, and select the profiles of the customers you want to email.</cmd>
+                    conref="../From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"/>, click the Customers button, and select the profiles of the customers you want to email.</cmd>
             </step>
             <step>
                 <cmd>Click the customer’s email address in the Customer overview, and then edit the
