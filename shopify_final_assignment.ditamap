@@ -9,6 +9,7 @@
           
     </topicmeta>
     <topicref href="introduction.dita"/>
+    <topicref href="pricing_plans.dita"/>
     <topicref href="getting_started.dita">
         <topicref href="creating_a_store.dita">
             <topicref href="setting_up_the_basics.dita"/>

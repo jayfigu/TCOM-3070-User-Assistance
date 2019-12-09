@@ -5,59 +5,31 @@
     <shortdesc></shortdesc>
     <conbody>
         <p>
-            <div><p dir="ltr" id="docs-internal-guid-a8013ec0-7fff-f906-1a5f-52b32c3d6c27">Welcome
-                    to Shopify! </p><p dir="ltr">In this guide, you’ll learn the basics of opening,
-                    customizing and managing your new online store. Shopify provides you with a
-                    variety of tools to make your venture into your business easy and
-                    customizable.</p><p dir="ltr"><b>The Pricing Plans</b></p>Shopify offers
-                different pricing plans based on your individual needs as an entrepreneur. Detailed
-                below are what each plan offers. <xref href="https://www.shopify.com/pricing"
-                    format="html" scope="external"
-                ><u>https://www.shopify.com/pricing</u></xref></div>
+            <div>
+                <p dir="ltr" id="docs-internal-guid-a8013ec0-7fff-f906-1a5f-52b32c3d6c27">Welcome to
+                    Shopify! </p>
+                <p dir="ltr">In this guide, you’ll learn the basics of opening, customizing and
+                    managing your new online store. Shopify provides you with a variety of tools to
+                    make your venture into your business easy and customizable.</p>
+                <p>Join the millions of active users selling their products or services using
+                    Shopify. </p>
+                <p>With the Shopify platform we will take you from buisness concepts to sharing your
+                    buisness vision to the world. </p>
+                <p><b>Buisness Foundations</b></p>
+                <p>Establish a buisness name, purchase or transfer a domain, and construct your
+                    brand by using our free tools. </p>
+                <p><b>Sell your products or services anywhere</b></p>
+                <p>With the Shopify platform you will be able to sell anywhere your customers are.
+                    You will have the flexability to access your ecommerce store online, and
+                    in-person.</p>
+                <p><b>Market to customers</b></p>
+                <p>With the Shopify platform, marketing will be at your fingertips with built-in
+                    tools that will allow you to roll out Facebook and Google campaigns while
+                    allowing you to analyze their success.</p>
+                <p><b>Shopify Dashboard</b></p>
+                <p>With the Shopify dashboard you will be able to easily see all aspects of your
+                    buisness, manage your orders and process them from start to finish. </p>
+            </div>
         </p>
- 
-        <table frame="all" rowsep="1" colsep="1" id="table_r1q_2cd_zjb">
-            <title>Shopify Pricing Model</title>
-            <tgroup cols="4" align="center">
-                <colspec colname="c1" colnum="1" colwidth="1*"/>
-                <colspec colname="c2" colnum="2" colwidth="1*"/>
-                <colspec colname="c3" colnum="3" colwidth="1*"/>
-                <colspec colname="c4" colnum="4" colwidth="1*"/>
-                <thead>
-                    <row>
-                        <entry/>
-                        <entry>Basic Shopify</entry>
-                        <entry>Shopify</entry>
-                        <entry>Advanced Shopify</entry>
-                    </row>
-                </thead>
-                <tbody>
-                    <row>
-                        <entry>Price annually</entry>
-                        <entry>$29</entry>
-                        <entry>$79</entry>
-                        <entry>$299</entry>
-                    </row>
-                    <row>
-                        <entry>Staff accounts</entry>
-                        <entry>2</entry>
-                        <entry>5</entry>
-                        <entry>15</entry>
-                    </row>
-                    <row>
-                        <entry>Gift Cards</entry>
-                        <entry>-</entry>
-                        <entry>Yes</entry>
-                        <entry>Yes</entry>
-                    </row>
-                    <row>
-                        <entry>Professional Reports </entry>
-                        <entry>-</entry>
-                        <entry>Yes</entry>
-                        <entry>Yes</entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
     </conbody>
 </concept>

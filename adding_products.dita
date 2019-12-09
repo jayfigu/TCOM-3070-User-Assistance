@@ -9,7 +9,9 @@
         </context>
         <steps>
             <step>
-                <cmd>From the Shopify Admin page, click on the Products tab to go to the Products page.</cmd>
+                <cmd><ph
+                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                />, click on the Products tab to go to the Products page.</cmd>
             </step>
             
             <step>
