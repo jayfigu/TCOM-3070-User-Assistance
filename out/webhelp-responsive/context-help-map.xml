@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_tmd_sww_pjb" path="Concepts/introduction.html"/>
+   <appContext helpID="pricing_plans" path="Concepts/pricing_plans.html"/>
+   <appContext helpID="getting_started" path="Concepts/getting_started.html"/>
+   <appContext helpID="creating_a_store_0" path="Concepts/creating_a_store.html"/>
+   <appContext helpID="setting_up_the_basics" path="Tasks/setting_up_the_basics.html"/>
+   <appContext helpID="adding_store_policies" path="Tasks/adding_store_policies.html"/>
+   <appContext helpID="add_menu_and_links_to_store"
+               path="Tasks/add_menu_and_links_to_store.html"/>
+   <appContext helpID="adding_products" path="Tasks/adding_products.html"/>
+   <appContext helpID="organizing_products" path="Tasks/organizing_products.html"/>
+   <appContext helpID="customizing_a_theme" path="Concepts/customizing_a_theme.html"/>
+   <appContext helpID="what_is_a_domain" path="Concepts/domains.html"/>
+   <appContext helpID="domain_through_shopify"
+               path="Tasks/domain_through_shopify.html"/>
+   <appContext helpID="add_existing_domain" path="Tasks/add_existing_domain.html"/>
+   <appContext helpID="setting_up_your_existing_domain_to_connect_to_shopify"
+               path="Tasks/setting_up_your_existing_domain_to_connect_to_shopify.html"/>
+   <appContext helpID="verify_shopify_connection"
+               path="Tasks/verify_shopify_connection.html"/>
+   <appContext helpID="set_your_primary_domain"
+               path="Tasks/set_your_primary_domain.html"/>
+   <appContext helpID="remove_a_third_party_domain"
+               path="Tasks/remove_a_third_party_domain.html"/>
+   <appContext helpID="remove_a_shopify_managed_domain"
+               path="Concepts/remove_a_shopify_managed_domain.html"/>
+   <appContext helpID="selling_products" path="Concepts/selling_products.html"/>
+   <appContext helpID="selling_in_person" path="Concepts/selling_in_person.html"/>
+   <appContext helpID="setting_up_the_shopify_pos_app"
+               path="Tasks/setting_up_the_shopify_pos_app.html"/>
+   <appContext helpID="selling_online" path="Concepts/selling_online.html"/>
+   <appContext helpID="adding_an_online_sales_channel"
+               path="Tasks/adding_an_online_sales_channel.html"/>
+   <appContext helpID="remove_an_online_sales_channel"
+               path="Tasks/remove_an_online_sales_channel.html"/>
+   <appContext helpID="customers_0" path="Concepts/customers.html"/>
+   <appContext helpID="managing_customers" path="Concepts/managing_customers.html"/>
+   <appContext helpID="adding_customers" path="Tasks/adding_customers.html"/>
+   <appContext helpID="emailing_customers" path="Tasks/emailing_customers.html"/>
+   <appContext helpID="untitled24" path="Concepts/edit_customers.html"/>
+   <appContext helpID="untitled25" path="Tasks/edit_customers_name_or_email.html"/>
+   <appContext helpID="edit_customers_address"
+               path="Tasks/edit_customers_address.html"/>
+   <appContext helpID="edit_customer_s_tag" path="Tasks/edit_customer_s_tag.html"/>
+   <appContext helpID="customer_s_note" path="Tasks/customer_s_note.html"/>
+   <appContext helpID="orders_process" path="Concepts/orders_process.html"/>
+   <appContext helpID="status_page_overview" path="Concepts/status_page_overview.html"/>
+   <appContext helpID="customizing_your_email_templates"
+               path="Tasks/customizing_your_email_templates.html"/>
+   <appContext helpID="analytics" path="Concepts/analytics.html"/>
+   <appContext helpID="analytics_dashboard_overview"
+               path="Concepts/analytics_dashboard_overview.html"/>
+   <appContext helpID="analytics___view_your_data"
+               path="Tasks/analytics___view_your_data.html"/>
+   <appContext helpID="transactions" path="Concepts/transactions.html"/>
+   <appContext helpID="payment_methods" path="Concepts/payment_methods.html"/>
+   <appContext helpID="searching_for_an_order"
+               path="Tasks/searching_for_an_order.html"/>
+   <appContext helpID="refund_an_order" path="Tasks/refund_an_order.html"/>
+   <appContext helpID="troubleshooting" path="Reference/troubleshooting.html"/>
+   <appContext helpID="reference_nfc_2kj_sjb" path="Reference/Glossary.html"/>
+</map>

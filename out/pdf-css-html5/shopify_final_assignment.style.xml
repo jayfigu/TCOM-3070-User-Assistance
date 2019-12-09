@@ -709,10 +709,13 @@
                                                   but will be displayed as links at the bottom of
                                                   the customer checkout page for your store. This
                                                   requires two separate browser tabs to be open.<div
+                                                  align="center" alt="Existing Domain"
                                                   class="- topic/image image" css:display="none"
                                                   css:image-resolution="120dpi" css:max-width="100%"
+                                                  css:oxy-alt-text="Existing Domain"
+                                                  css:text-align="center"
                                                   href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG"
-                                                  placement="inline"/></div>
+                                                  placement="break" scalefit="yes"/></div>
                                                   <div class="- topic/author author"
                                                   css:display="none">Ryan Ewaskiew, Jason Figueroa,
                                                   Carter Francis, Mailie Liu</div>
@@ -1853,7 +1856,13 @@
                                                   ><css:leader pattern="."/><css:target-counter
                                                   url-fragment="unique_37"/></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
-                                                  css:display="none"/>
+                                                  css:display="none">You can use Shopify's analytics
+                                                  and reports to learn about your sales and
+                                                  customers in great detail. The types of analytics
+                                                  and reports that you can view depend on your
+                                                  Shopify Plan. You can also set up third-party
+                                                  analytics services, such as Google Analytics, to
+                                                  gain further insights and improve your business. </div>
                                                 <div class="- topic/author author"
                                                   css:display="none">Ryan Ewaskiew, Jason Figueroa,
                                                   Carter Francis, Mailie Liu</div>
@@ -1973,7 +1982,11 @@
                                                   ><css:leader pattern="."/><css:target-counter
                                                   url-fragment="unique_40"/></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
-                                                  css:display="none"/>
+                                                  css:display="none">You can use Shopify POS for all
+                                                  your transactions when you're selling in person.
+                                                  Before processing your first transaction, make
+                                                  sure you complete the Shopify POS in-app
+                                                  setup.</div>
                                                 <div class="- topic/author author"
                                                   css:display="none">Ryan Ewaskiew, Jason Figueroa,
                                                   Carter Francis, Mailie Liu</div>
@@ -2111,16 +2124,16 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e558"
-                                                css:text-align-last="justify" href="#d7e558"
+                                                css:display="block" css:link="#d7e560"
+                                                css:text-align-last="justify" href="#d7e560"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e558"><css:text>Chapter
+                                                  css:link="#d7e560"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="4"/><css:text>.
                                                   </css:text></css:before>Troubleshooting<css:after
-                                                  css:display="inline" css:link="#d7e558"
+                                                  css:display="inline" css:link="#d7e560"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e558"/></css:after></div>
+                                                  url-fragment="d7e560"/></css:after></div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
@@ -2180,16 +2193,16 @@
                                             css:padding-right="0" css:padding-top="0">
                                             <css:before css:display="inline"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#d7e572"
-                                                css:text-align-last="justify" href="#d7e572"
+                                                css:display="block" css:link="#d7e574"
+                                                css:text-align-last="justify" href="#d7e574"
                                                   ><css:before css:display="inline"
-                                                  css:link="#d7e572"><css:text>Chapter
+                                                  css:link="#d7e574"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="5"/><css:text>.
                                                   </css:text></css:before>Glossary<css:after
-                                                  css:display="inline" css:link="#d7e572"
+                                                  css:display="inline" css:link="#d7e574"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="d7e572"/></css:after></div>
+                                                  url-fragment="d7e574"/></css:after></div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
@@ -3059,19 +3072,41 @@
                                                   Store policies are added on a different webpage
                                                   but will be displayed as links at the bottom of
                                                   the customer checkout page for your store. This
-                                                  requires two separate browser tabs to be open.<img
-                                                  chfox:inch="true" class="- topic/image image"
+                                                  requires two separate browser tabs to be open.<br
+                                                  css:display="block"><css:after
+                                                  css:display="inline"
+                                                  ><css:text/></css:after></br></p>
+                                                <div class="imagecenter" css:display="block"
+                                                  css:text-align="center">
+                                                  <img align="center" alt="Existing Domain"
+                                                  chfox:inch="true"
+                                                  class="- topic/image image imagecenter"
                                                   css:display="inline" css:image-resolution="120dpi"
                                                   css:max-width="100%"
+                                                  css:oxy-alt-text="Existing Domain"
                                                   href="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG"
                                                   id="unique_6_Connect_42_image_kfb_w5r_xjb"
-                                                  nd:nd-id="image_kfb_w5r_xjb" placement="inline"
-                                                  src="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG"
-                                                  ><css:content-on-element><css:uri
-                                                  extracted-image-height="462"
+                                                  nd:nd-id="image_kfb_w5r_xjb" placement="break"
+                                                  scalefit="yes"
+                                                  src="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG">
+                                                  <css:content-on-element>
+                                                  <css:uri extracted-image-height="462"
                                                   extracted-image-width="902"
                                                   uri="file:/C:/Users/jfigueroa38/Documents/GitHub/TCOM-3070-User-Assistance/img/Add%20Domain%20-%20Add%20existing%20domain.PNG"
-                                                  /></css:content-on-element></img></p>
+                                                  />
+                                                  </css:content-on-element>
+                                                  </img>
+                                                </div>
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em">
+                                                  <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                  </br>
+                                                </p>
                                                 <section css:display="block"
                                                   css:oxy-pdf-tag-type="Sect">
                                                   <ol class="- topic/ol task/steps ol steps"
@@ -5804,7 +5839,13 @@
                                             <p class="- topic/shortdesc shortdesc"
                                                 css:display="block" css:margin-bottom="0.5em"
                                                 css:margin-left="0" css:margin-right="0"
-                                                css:margin-top="0.5em"/>
+                                                css:margin-top="0.5em">You can use Shopify's
+                                                analytics and reports to learn about your sales and
+                                                customers in great detail. The types of analytics
+                                                and reports that you can view depend on your Shopify
+                                                Plan. You can also set up third-party analytics
+                                                services, such as Google Analytics, to gain further
+                                                insights and improve your business. </p>
                                             <br css:display="block">
                                                 <css:after css:display="inline">
                                                   <css:text/>
@@ -6168,7 +6209,10 @@
                                             <p class="- topic/shortdesc shortdesc"
                                                 css:display="block" css:margin-bottom="0.5em"
                                                 css:margin-left="0" css:margin-right="0"
-                                                css:margin-top="0.5em"/>
+                                                css:margin-top="0.5em">You can use Shopify POS for
+                                                all your transactions when you're selling in person.
+                                                Before processing your first transaction, make sure
+                                                you complete the Shopify POS in-app setup.</p>
                                             <p class="- topic/p p" css:display="block"
                                                 css:margin-bottom="0.5em" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0.5em"/>
@@ -6467,7 +6511,7 @@
                                 <article aria-labelledby="ariaid-title44" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e558" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e560" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"
@@ -6671,7 +6715,7 @@
                                 <article aria-labelledby="ariaid-title46" break-before="true"
                                     class="+ topic/topic pdf2-d/placeholder topic placeholder nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="d7e572" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="d7e574" is-chapter="true"
                                     topicrefclass="+ map/topicref mapgroup-d/topichead ">
                                     <h1 class="- topic/title title topictitle1"
                                         css:bookmark-level="1" css:display="block"

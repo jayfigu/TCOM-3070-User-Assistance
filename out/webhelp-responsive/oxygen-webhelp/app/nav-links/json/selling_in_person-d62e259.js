@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Setting up the Shopify POS app","shortdesc":"<p class=\"shortdesc\"></p>","href":"Tasks\/setting_up_the_shopify_pos_app.html","attributes": {"data-id":"setting_up_the_shopify_pos_app",},"menu": {"hasChildren":false,},"tocID":"setting_up_the_shopify_pos_app-d62e272","topics":[]}]});

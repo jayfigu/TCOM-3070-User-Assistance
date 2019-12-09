@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Glossary","shortdesc":"<p class=\"shortdesc\">Glossary</p>","href":"Reference\/Glossary.html","attributes": {"data-id":"reference_nfc_2kj_sjb",},"menu": {"hasChildren":false,},"tocID":"reference_nfc_2kj_sjb-d62e572","topics":[]}]});
