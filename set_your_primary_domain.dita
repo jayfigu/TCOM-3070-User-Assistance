@@ -6,10 +6,12 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>From the Shopify Admin page, go to the Online Store > Domains.</cmd>
+                <cmd><ph
+                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                />,, go to the Online Store > Domains.</cmd>
             </step>
             <step>
-                <cmd>In Primary Domain, click Change primary domain.</cmd>
+                <cmd>In Primary Domain, <i>click</i> Change primary domain.</cmd>
             </step>
             
             <step>
@@ -17,7 +19,8 @@
             </step>
             
             <step>
-                <cmd>Click Save.</cmd>
+                <cmd><i>Click</i>
+                    <b>Save</b>.</cmd>
             </step>
         </steps>
     </taskbody>

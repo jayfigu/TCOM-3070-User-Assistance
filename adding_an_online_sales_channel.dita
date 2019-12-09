@@ -4,18 +4,18 @@
     <title>Adding an online sales channel</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context/>
         <steps>
             <step>
-                <cmd>Click the + button next to the Sales Channels heading in your Shopify admin.</cmd>
+                <cmd><i>Click</i> the + button next to the Sales Channels heading in your Shopify
+                    admin.</cmd>
             </step>
             <step>
-                <cmd>Click the name of the sales channel you want to add in the Add sales channel dialog.</cmd>
+                <cmd><i>Click</i> the name of the sales channel you want to add in the Add sales
+                    channel dialog.</cmd>
             </step>
             <step>
-                <cmd>Click Add channel.</cmd>
+                <cmd><i>Click</i> Add channel.</cmd>
             </step>
         </steps>
     </taskbody>

@@ -14,13 +14,13 @@
                 <cmd>From your Shopify admin, go to <b>Customers</b></cmd>
             </step>
             <step>
-                <cmd>Click the name of the customer profile you want to edit.</cmd>
+                <cmd><i>Click</i> the name of the customer profile you want to edit.</cmd>
             </step>
             <step>
                 <cmd>In the Tags section, add or edit your customer profile tags in the text box.</cmd>
             </step>
             <step>
-                <cmd>Click Save to confirm your changes.</cmd>
+                <cmd><i>Click</i> Save to confirm your changes.</cmd>
             </step>
         </steps>
     </taskbody>

@@ -10,12 +10,8 @@
             template that includes the page URL the order status page that tells them:</p>
         <ul id="ul_mxh_bbj_5jb">
             <li dir="ltr">Order confirmation</li>
-            <li dir="ltr">
-                Shipping confirmation
-            </li>
-            <li dir="ltr">
-                Shipping update
-            </li>
+            <li dir="ltr">Shipping confirmation </li>
+            <li dir="ltr">Shipping update </li>
         </ul>
     </conbody>
 </concept>

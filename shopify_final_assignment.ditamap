@@ -43,24 +43,25 @@
                 <topicref href="emailing_customers.dita"/>
             </topicref>
             <topicref href="edit_customers.dita">
+                <topicref href="edit_customers_name_or_email.dita"/>
                 <topicref href="edit_customers_address.dita"/>
                 <topicref href="edit_customer_s_tag.dita"/>
-                <topicref href="edit_customers_name_or_email.dita"/>
+                <topicref href="customer_s_note.dita"/>
             </topicref>
-            <topicref href="edit_a_customers_name_or_email.dita"/>
         </topicref>
         <topicref href="orders_process.dita">
             <topicref href="status_page_overview.dita"/>
             <topicref href="customizing_your_email_templates.dita"/>
         </topicref>
-        <topicref href="transactions.dita">
-            <topicref href="payment_methods.dita"/>
-            <topicref href="searching_for_an_order.dita"/>
-            <topicref href="refund_an_order.dita"/>
-        </topicref>
         <topicref href="analytics.dita">
+            <topicref href="analytics_dashboard_overview.dita"/>
             <topicref href="analytics___view_your_data.dita"/>
         </topicref>
+    </topicref>
+    <topicref href="transactions.dita">
+        <topicref href="payment_methods.dita"/>
+        <topicref href="searching_for_an_order.dita"/>
+        <topicref href="refund_an_order.dita"/>
     </topicref>
     <topichead navtitle="Troubleshooting">
         <topicref href="troubleshooting.dita"/>

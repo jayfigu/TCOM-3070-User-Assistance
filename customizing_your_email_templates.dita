@@ -2,9 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="customizing_your_email_templates">
     <title>Customizing your Email Templates</title>
-    <shortdesc>The email templates control the Order confirmation and Shipping emails that customers are sent when their orders are fulfilled or updated. These emails are automatically sent to customers, but can be customized to fit what you would like the customers to see.</shortdesc>
+    <shortdesc/>
     <taskbody>
         <context>
+            <p>Customizing your Email Templates</p>
+            <p>The email templates control the Order Confirmation and Shipping emails that customers
+                are sent when their orders are fulfilled or updated. These emails are automatically
+                sent to customers but can be customized to fit what you would like the customers to
+                see.</p>
             <p>Customization is formatted using HTML, so if you need help understanding how it works, check out this simple guide.</p>
         </context>
         <steps>
@@ -12,7 +17,8 @@
                 <cmd>From the Shopify Admin Page, go to Settings > Notifications.</cmd>
             </step>
             <step>
-                <cmd>Locate the Email Templates section, then find the Order confirmation and Shipping confirmation email templates.</cmd>
+                <cmd>Locate the Email Templates section, then find the Order Confirmation and
+                    Shipping confirmation email templates.</cmd>
             </step>
             
         </steps>

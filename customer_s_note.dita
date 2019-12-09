@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="customer_s_note">
+    <title>Customer's Note</title>
+    <shortdesc>A customer note contains information that you might want to keep track of for a particular customer profile. Notes are visible to store staff only, so your customers won't see them.</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>From your Shopify admin, go to Customers.</cmd>
+            </step>
+            <step>
+                <cmd><i>Click</i> the name of the customer profile you want to edit.</cmd>
+            </step>
+            <step>
+                <cmd>Under Customer Note, add or change existing notes in the text box, and
+                        <i>click</i> Save.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

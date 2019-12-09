@@ -2,8 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="managing_customers">
     <title>Managing Customers</title>
-    <shortdesc>We are now getting to one of the most impoartant part of your buisness, your customers. In this section we will cover how to manage and edit specific parts of your customers' profiles.</shortdesc>
+    <shortdesc>We are now getting to one of the essential parts of your business, your customers. In
+        this section, we will cover how to manage and edit specific parts of your customers'
+        profiles.</shortdesc>
     <conbody>
+        <p>
+            <image placement="break" href="img/Customers.PNG" align="center" id="image_drn_b3p_zjb"
+                scalefit="yes"/>
+        </p>
         <p>New customers will have their names and information added to customer lists when they
             place an order in your store, allowing you to email them using their profile
             information. You are also able to add, edit, or delete customer profiles manually in

@@ -7,14 +7,14 @@
         <p dir="ltr" id="docs-internal-guid-84c8e2bb-7fff-d061-42ae-dfb69de1a85f">Shopify allows
             several different types of payment methods through storefronts. Payment methods are
             further customizable by storefront owners, as they can choose which type of payments to
-            accept and decline, as well as methods based on if transactions take place in real life,
-            or over the online storefront.These options include:</p>
+            accept and decline, as well as plans based on if transactions take place in real life or
+            over the online storefront. These options include:</p>
         <ul id="ul_fn1_jbq_5jb">
             <li dir="ltr">
                 <p dir="ltr">Credit/Debit cards</p>
             </li>
             <li dir="ltr">
-                <p dir="ltr">Cash (For in-person transactions)</p>
+                <p dir="ltr">Cash (For in-person purchases)</p>
             </li>
             <li dir="ltr">
                 <p dir="ltr">Manual card payments (customer enters in card details manually)</p>

@@ -4,30 +4,30 @@
     <title>Edit a Customer's Name or Email</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context/>
         <steps>
             <step>
-                <cmd>From your Shopify admin, go to the Customers sections.</cmd>
+                <cmd>From your Shopify admin, go to the Customer sections.</cmd>
             </step>
             <step>
-                <cmd>Click the name of the customer profile you want to edit.</cmd>
+                <cmd><i>Click</i> the name of the customer profile you want to edit.</cmd>
             </step>
             
             <step>
                 <cmd>In the Customer overview section, click Edit.</cmd>
                 <info>In the Edit customer dialog, you can change the customers:<ul
                         id="ul_m1g_l15_tjb">
-                        <li>First name.</li>
-                        <li>Last name.</li>
-                        <li>Email address.</li>
+                        <li>First name</li>
+                        <li>Last name</li>
+                        <li>Email address</li>
                         <li>Phone Number</li>
                         <li>Acklodgement to receive marketing</li>
                     </ul></info>
             </step>
             <step>
-                <cmd>Click <b>Save</b> to confirm your changes to the customer profile’s Information. </cmd>
+                <cmd><i>Click</i>
+                    <b>Save</b> to confirm your changes to the customer profile’s Information.
+                </cmd>
             </step>
         </steps>
     </taskbody>

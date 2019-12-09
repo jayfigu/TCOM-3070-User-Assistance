@@ -4,18 +4,17 @@
     <title>Remove an online sales channel</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context/>
         <steps>
             <step>
-                <cmd>Click Settings on the Shopify admin, and then click Sales channels.</cmd>
+                <cmd><i>Click</i>
+                    <b>Settings</b> on the Shopify admin, and then click Sales channels.</cmd>
             </step>
             <step>
                 <cmd>Find the name of the sales channel you want to remove.</cmd>
             </step>
             <step>
-                <cmd>Click remove channel</cmd>
+                <cmd><i>Click</i> remove channel</cmd>
             </step>
         </steps>
     </taskbody>

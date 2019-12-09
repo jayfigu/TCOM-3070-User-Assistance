@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="analytics_dashboard_overview">
+    <title>Analytics Dashboard Overview</title>
+    <shortdesc>The dashboard shows the most valuable metrics that give you insight into the
+        performance of your store and the behavior of your customers. The parameters are shown in
+        numeric format and also as graphs where appropriate. For all the metrics, the percentage
+        change from the previous date range can also be shown. In this section, you will learn the
+        basics of how to view your selling trends.</shortdesc>
+    <conbody>
+        <p>In the Overview dashboard you can do the following activities:</p>
+        <p>
+            <image placement="break" href="img/Analytics%20-%20Overview.PNG" align="center"
+                id="image_xkl_xhp_zjb" scalefit="yes"/>
+        </p>
+        <ul>
+            <li>Check the value of your recent sales and compare them to a previous time period</li>
+            <li>Exmine how well your sales channels are performing</li>
+            <li>Track your average order value</li>
+            <li>See where your visitors are coming from—by region or by a social media source </li>
+            <li>Monitor the trends over time</li>
+        </ul>
+    </conbody>
+</concept>

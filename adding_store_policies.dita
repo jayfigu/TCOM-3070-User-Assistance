@@ -2,28 +2,29 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_store_policies">
     <title>Adding Store Policies</title>
-    <shortdesc>Policies are important so that your customers know how you handle refunds, privacy,
-        and terms of service for transactions. Store policies are added on a different webpage, but
+    <shortdesc>Policies are essential so that your customers know how you handle refunds, privacy,
+        and terms of service for transactions. Store policies are added on a different webpage but
         will be displayed as links at the bottom of the customer checkout page for your store. This
-        requires 2 separate browser tabs to be open.<image
+        requires two separate browser tabs to be open.<image
             href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" id="image_kfb_w5r_xjb"
         /></shortdesc>
     <taskbody>
         <steps>
             <step>
                 <cmd><ph
-                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
-                    /> click on Pages </cmd>
+                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"/>
+                    <i>click</i> on Pages </cmd>
             </step>
             <step>
-                <cmd>On your Pages page, click Create a New Page</cmd>
+                <cmd>On your Pages page, <i>click</i> Create a New Page</cmd>
             </step>
             <step>
                 <cmd>In a separate tab, access your store checkout settings. Copy each policy to your computers’ clipboard.</cmd>
             </step>
             
             <step>
-                <cmd>Back to the first page, paste the clipboard contents. Then click Save Page.</cmd>
+                <cmd>Back to the first page, paste the clipboard contents. Then <i>click</i>
+                    <b>Save Page</b>.</cmd>
             </step>
             
             <step>

@@ -6,7 +6,10 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>From the Shopify Admin page, click Verify connection to verify that your domain has been connected to your store.</cmd>
+                <cmd><ph
+                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                />, <i>click</i> Verify connection to verify that your
+                    domain has been connected to your store.</cmd>
             </step>
         </steps>
     </taskbody>

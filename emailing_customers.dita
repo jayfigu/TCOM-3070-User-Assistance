@@ -9,10 +9,13 @@
         </context>
         <steps>
             <step>
-                <cmd>On the Shopify Admin, click the Customers button, and select the profiles of the customers you want to email.</cmd>
+                <cmd><ph
+                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"/>, click the Customers button, and select the profiles of the customers you want to email.</cmd>
             </step>
             <step>
-                <cmd>Click the customer’s email address in the Customer overview, and then edit the subject as necessary (  {{ shop.name }}  can be used to automatically generate your store’s name in an email).</cmd>
+                <cmd>Click the customer’s email address in the Customer overview, and then edit the
+                    subject as necessary ( {{ shop.name }} can be used to generate your store’s name
+                    in an email automatically).</cmd>
             </step>
             <step>
                 <cmd>Type your message in the message field, and if you want to keep a copy for records, enter the email you want the copies sent to in the Send bcc to field.</cmd>

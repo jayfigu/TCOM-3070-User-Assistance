@@ -3,19 +3,32 @@
 <task id="add_existing_domain">
     <title>Add Existing Domain</title>
     <shortdesc>Shopify also allows you to add existing domains from third party providers. If you'd
-        rather do that than purchasing one of Shopify's, here are the steps in doing so.</shortdesc>
+        instead do that than purchasing one of Shopify's, here are the steps in doing
+        so.</shortdesc>
     <taskbody>
             <steps>
                 <stepsection><b>Adding an Existing Third-Party Domain</b></stepsection>
-                <step><cmd>From the Shopify Admin page, go to Online Store > Domains</cmd></step>
                 <step>
-                <cmd>Click Connect Existing Domain</cmd>
+                <cmd><ph
+                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                    />, go to Online Store > Domains </cmd>
+                <info>
+                    <p>
+                        <image placement="break"
+                            href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
+                            id="image_tmv_yyj_vjb" scalefit="yes"/>
+                    </p>
+                </info>
+            </step>
+                <step>
+                <cmd><i>Click</i> Connect Existing Domain</cmd>
             </step>
             <step>
-                <cmd>Enter the third party domain you own, then click <b>Next.</b></cmd>
+                <cmd>Enter the third party domain you own, then <i>click</i>
+                    <b>Next.</b></cmd>
             </step>
-                
             </steps>
         
+      
     </taskbody>
 </task>

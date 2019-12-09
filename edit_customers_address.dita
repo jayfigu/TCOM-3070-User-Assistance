@@ -9,10 +9,12 @@
         </context>
         <steps>
             <step>
-                <cmd>From your Shopify admin, go to Customers.</cmd>
+                <cmd><ph
+                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                />, go to Customers.</cmd>
             </step>
             <step>
-                <cmd>Click the name of the customer profile that you want to edit.</cmd>
+                <cmd><i>Click</i> the name of the customer profile that you want to edit.</cmd>
             </step>
             <step>
                 <cmd>In the Default Address section, click Manage to view or edit existing addresses.</cmd>
@@ -21,7 +23,7 @@
                 <cmd>In the Manage Addresses dialog, click Edit address under the address that you want to edit.</cmd>
             </step>
             <step>
-                <cmd>Change the customer's address details and click Save.</cmd>
+                <cmd>Change the customer's address details and <i>click</i> Save.</cmd>
             </step>
         </steps>
     </taskbody>

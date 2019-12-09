@@ -10,16 +10,16 @@
         <steps>
             <step>
                 <cmd><ph
-                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
-                />, click on the Products tab to go to the Products page.</cmd>
+                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                    />, <i>click</i> on the Products tab to go to the Products page.</cmd>
             </step>
             
             <step>
-                <cmd>Click Add Product to begin the process of adding in new products.</cmd>
+                <cmd><i>Click</i> Add Product to begin the process of adding new products.</cmd>
             </step>
             
             <step>
-                <cmd>Enter in the details and logistics for your new product. </cmd>
+                <cmd>Enter the details and logistics for your new product. </cmd>
             </step>
         </steps>
     </taskbody>

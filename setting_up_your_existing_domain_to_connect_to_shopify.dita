@@ -2,12 +2,16 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="setting_up_your_existing_domain_to_connect_to_shopify">
     <title>Setting up your existing domain to connect to Shopify</title>
-    <shortdesc>Shopify gives you the option to add in your own domain, if it already exists.
-    </shortdesc>
+    <shortdesc>Shopify gives you the option to add in your own domain if it already exists. </shortdesc>
     <taskbody>
         <steps>
             <step>
                 <cmd>Navigate to your domain provider and log into your account on that site.</cmd>
+                <info>
+                    <image placement="break"
+                        href="img/Add%20Domain%20-%20Add%20existing%20domain.PNG" align="center"
+                        id="image_rwl_nhp_zjb"/>
+                </info>
             </step>
             <step>
                 <cmd>Find your DNS Settings. These are generally located in the domain management area on the site, but this varies from provider to provider.</cmd>

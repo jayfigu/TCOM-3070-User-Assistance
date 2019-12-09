@@ -4,31 +4,26 @@
     <title>Refund an Order</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-            <ol id="ol_wtg_rbq_5jb">
-                <li dir="ltr">
-                    <p dir="ltr">From the Shopify POS, tap <b>Orders.</b></p>
-                </li>
-                <li dir="ltr">
-                    <p dir="ltr">Choose the order of the item that needs to be refunded.</p>
-                </li>
-                <li dir="ltr">
-                    <p dir="ltr">Tap <b>Refund or Exchange</b> and then tap which item(s) which will
-                        be refunded, then use the + or - buttons to enter the quantity of the item
-                        that will be refunded.</p>
-                </li>
-                <li dir="ltr">
-                    <p dir="ltr">There are several optional choices that can be added based on the
-                        nature of the refund and the seller.</p>
-                </li>
-            </ol>
-            <p>Once all constraints are satisfied, tap <b>Refund</b> then <b>Done</b>.</p>
-        </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>From the Shopify POS, tap <b>Orders.</b></cmd>
+            </step>
+            <step>
+                <cmd>Choose the order of the item that needs to be refunded.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <b>Refund or Exchange</b> and then tap which item(s) which will
+                    be refunded, then use the + or - buttons to enter the quantity of the item
+                    that will be refunded.</cmd>
+            </step>
+            <step>
+                <cmd>There are several optional choices that can be added based on the
+                    nature of the refund and the seller.</cmd>
+            </step>
+            <step>
+                <cmd>Once all constraints are satisfied, tap <b>Refund</b> then <b>Done</b>.</cmd>
             </step>
         </steps>
+
     </taskbody>
 </task>

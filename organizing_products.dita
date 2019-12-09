@@ -2,32 +2,30 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="organizing_products">
     <title>Organizing Products</title>
-    <shortdesc>Shopify allows you to create product collections to organize your products however you’d like through the use of collections. Examples of categories:
-        Clothes for men, women, or children
-        Items on sale
-        Items of a certain type, size or color
-        Seasonal products
-    </shortdesc>
+    <shortdesc>Shopify allows you to create product collections to organize your products; however,
+        you’d like through the use of collections. Examples of categories: Clothes for men, women,
+        or children Items on sale Items of a certain type, size or color Seasonal
+        products.</shortdesc>
     <taskbody>
         <steps>
             
             <step>
                 <cmd><ph
-                    conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
-                />, click on Collections</cmd>
+                        conref="From%20Shopify%20Admin%20page#ReusableComponent_sxj_1x4_zjb/ph_txj_1x4_zjb"
+                    />, <i>click</i> on Collections</cmd>
             </step>
             <step>
-                <cmd>On the Collections page, click on Create Collection</cmd>
+                <cmd>On the Collections page, <i>click</i> on Create Collection</cmd>
             </step>
             <step>
                 <cmd>In the new window, enter a Title and Description for the collection. This is a mandatory step.</cmd>
             </step>
             <step>
-                <cmd>Under Sales Channels make sure to choose which channels you want the collection to be listed under. (I.E. Shopify online store, Facebook, Amazon, etc.)</cmd>
+                <cmd>Under Sales Channels make sure to choose which channels you want the collection to be listed under (I.E., Shopify online store, Facebook, Amazon, etc.).</cmd>
             </step>
             <step>
                 
-                <cmd>Collections allow you to choose whether products will be added in manually or automatically. This option cannot be changed later.</cmd>
+                <cmd>Collections allow you to select whether products will be added manually or automatically. This option cannot be changed later.</cmd>
             
                 <substeps>
                     <substep>
@@ -40,7 +38,7 @@
             
             </step>
             <step>
-                <cmd>Click Save Collection</cmd>
+                <cmd><i>Click</i><b> Save Collection</b></cmd>
             </step>
         </steps>
    

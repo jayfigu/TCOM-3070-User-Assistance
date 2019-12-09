@@ -9,11 +9,12 @@
                 <cmd>From the Shopify Admin page, go to Online Store > Domains.</cmd>
             </step>
             <step>
-                <cmd>In Third-party domains, locate the domain you want to remove and click Remove.</cmd>
+                <cmd>In Third-party domains, locate the domain you want to remove and <i>click</i>
+                    Remove.</cmd>
             </step>
             
             <step>
-                <cmd>Click Remove again to confirm.</cmd>
+                <cmd><i>Click</i> Remove again to confirm.</cmd>
             </step>
         </steps>
     </taskbody>

@@ -23,13 +23,17 @@
                     <substep>
                          <cmd>Customer accepts marketing means that the customer has agreed to receive newsletters or marketing emails.</cmd>
                         </substep>
-                        <substep> 
-                        <cmd>Collect tax details if you are charging a sales tax for the customer. Depending on the customer’s, or your own location, there will be additional options or information, such as tax exemption options with Browse or search exemptions.</cmd>
+                        <substep>
+                        <cmd>Collect tax details if you are charging a sales tax for the customer.
+                            Depending on the customer’s, or your location, there will be additional
+                            options or information, such as tax exemption options with Browse or
+                            search exemptions.</cmd>
                     </substep>
                 </substeps>          
             </step>
             <step>
-                <cmd>After filling out all the appropriate information, click Save customer to create or update the customer profile.</cmd>
+                <cmd>After filling out all the appropriate information, <i>click</i> Save customer
+                    to create or update the customer profile.</cmd>
             </step>
             
         </steps>
